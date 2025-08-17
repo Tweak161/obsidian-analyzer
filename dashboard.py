@@ -67,34 +67,185 @@ class ObsidianDashboard:
             width=150
         )
         
-        # Configure hidden columns
+        # Configure table settings
         configuration = {
             'columnDefaults': {
                 'headerSort': True,
                 'resizable': True,
                 'headerTooltip': True,
-                'tooltip': True
-            }
+                'tooltip': True,
+                'minWidth': 100,  # Minimum column width
+                'maxWidth': 500,  # Maximum column width to prevent overly wide columns
+                'editor': False,  # Make all columns read-only
+                'widthGrow': 1,  # Allow columns to grow proportionally
+                'editable': False,  # Explicitly disable editing
+                'clickable': False  # Disable cell clicking
+            },
+            'movableColumns': True,  # Allow column reordering
+            'autoColumns': False,  # Don't auto-size columns
+            'responsiveLayout': False,  # Disable responsive layout to ensure scrolling
+            'selectable': selectable,  # Control row selection
+            'layout': 'fitData',  # Fit data with scrolling
+            'placeholder': 'No data available',  # Show message when empty
+            'headerVisible': True,  # Always show header
+            'virtualDom': True,  # Enable virtual DOM for performance
+            'virtualDomBuffer': 50,  # Buffer size for virtual DOM
+            'cellClick': False,  # Disable cell click events
+            'cellDblClick': False,  # Disable cell double-click events
+            'cellContext': False,  # Disable cell context menu
+            'cellEdited': False  # Disable cell edit events
         }
         
+        # Handle hidden columns first
         if hidden_columns:
-            configuration['columns'] = []
+            if 'columns' not in configuration:
+                configuration['columns'] = []
             for col in dataframe.columns:
                 if col in hidden_columns:
                     configuration['columns'].append({'field': col, 'visible': False})
         
-        # Create table with common settings
+        # Special configuration for specific columns
+        if 'columns' not in configuration:
+            configuration['columns'] = []
+        
+        # Check if dataframe has keywords column and configure it specially
+        if 'keywords' in dataframe.columns:
+            # Check if keywords column already exists in configuration
+            keywords_config_exists = any(col.get('field') == 'keywords' for col in configuration['columns'])
+            if not keywords_config_exists:
+                configuration['columns'].append({
+                    'field': 'keywords',
+                    'title': 'Keywords',
+                    'minWidth': 250,  # Wider minimum for keywords
+                    'maxWidth': None,  # No max width for keywords
+                    'tooltip': True,  # Show full content on hover
+                    'formatter': 'plaintext',  # Plain text display
+                    'cssClass': 'keywords-cell'  # Custom CSS class
+                })
+        
+        # Create table with horizontal scrolling enabled
         table = pn.widgets.Tabulator(
             dataframe,
             pagination='local',
             page_size=page_size,
             height=height,
-            sizing_mode='stretch_width',
-            layout='fit_data_stretch',
+            width_policy='max',  # Limit to container width
+            sizing_mode='stretch_width',  # Stretch to fill available width
+            layout='fit_data_table',  # Allow columns to size naturally
             show_index=False,
             selectable=1 if selectable else False,
-            configuration=configuration
+            configuration=configuration,
+            disabled=False  # Table is interactive but cells are not editable
         )
+        
+        # Add custom CSS to ensure horizontal scrolling and read-only appearance
+        table.stylesheets = ["""
+        /* Container constraints */
+        :host {
+            display: block !important;
+            width: 100% !important;
+            overflow: hidden !important;
+        }
+        
+        /* Table holder with scrollbars */
+        .tabulator-tableholder {
+            overflow-x: auto !important;
+            overflow-y: auto !important;
+            max-width: 100% !important;
+        }
+        
+        /* Table sizing */
+        .tabulator-table {
+            width: auto !important;
+            min-width: 100% !important;
+        }
+        
+        /* Header styling */
+        .tabulator-header {
+            overflow: hidden !important;
+        }
+        
+        /* Cell styling for read-only */
+        .tabulator-cell {
+            user-select: none !important;  /* Disable text selection */
+            cursor: default !important;  /* Default cursor, not text cursor */
+            white-space: nowrap !important;  /* Prevent text wrapping by default */
+            overflow: hidden !important;
+            text-overflow: ellipsis !important;
+            pointer-events: auto !important;  /* Keep pointer events for hover */
+            -webkit-user-select: none !important;
+            -moz-user-select: none !important;
+            -ms-user-select: none !important;
+        }
+        
+        /* Disable input appearance for all cells */
+        .tabulator-cell input,
+        .tabulator-cell textarea,
+        .tabulator-cell select {
+            display: none !important;  /* Hide any input elements */
+        }
+        
+        /* Disable cell editing styles */
+        .tabulator-cell.tabulator-editing {
+            border: none !important;
+            background: inherit !important;
+        }
+        
+        /* Special styling for keywords column */
+        .keywords-cell, 
+        .tabulator-cell[tabulator-field="keywords"] {
+            white-space: normal !important;  /* Allow wrapping for keywords */
+            word-wrap: break-word !important;
+            overflow-wrap: break-word !important;
+            max-width: 400px !important;
+            min-width: 250px !important;
+            user-select: none !important;  /* No text selection for keywords */
+        }
+        
+        /* Allow clicking only for path links */
+        .tabulator-cell[tabulator-field="path"] a {
+            pointer-events: auto !important;
+            cursor: pointer !important;
+            user-select: none !important;
+        }
+        
+        /* Ensure keywords are fully visible on hover */
+        .tabulator-cell[tabulator-field="keywords"]:hover {
+            overflow: visible !important;
+            z-index: 10 !important;
+            background-color: #f5f5f5 !important;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2) !important;
+            position: relative !important;
+        }
+        
+        /* Hover effects */
+        .tabulator-cell:hover {
+            background-color: #f5f5f5 !important;
+        }
+        
+        .tabulator-row.tabulator-selectable:hover {
+            background-color: #f0f0f0 !important;
+        }
+        
+        /* Scrollbar styling */
+        .tabulator-tableholder::-webkit-scrollbar {
+            height: 10px;
+            width: 10px;
+        }
+        
+        .tabulator-tableholder::-webkit-scrollbar-track {
+            background: #f1f1f1;
+        }
+        
+        .tabulator-tableholder::-webkit-scrollbar-thumb {
+            background: #888;
+            border-radius: 5px;
+        }
+        
+        .tabulator-tableholder::-webkit-scrollbar-thumb:hover {
+            background: #555;
+        }
+        """]
         
         # Update page size when selector changes
         def update_page_size(event):
@@ -530,7 +681,7 @@ class ObsidianDashboard:
                         'importance_score': metadata.get('importance_score', 0),
                         'word_count': metadata.get('word_count', 0),
                         'modified': pd.to_datetime(metadata.get('modified', ''), format='mixed').strftime('%Y-%m-%d') if metadata.get('modified') else '',
-                        'keywords': ', '.join(metadata.get('keywords', [])[:5])  # Show first 5 keywords
+                        'keywords': ', '.join(metadata.get('keywords', []))  # Show all keywords
                     })
             
             if filtered_notes:
