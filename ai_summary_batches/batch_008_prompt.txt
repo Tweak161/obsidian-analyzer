@@ -1,0 +1,419 @@
+Please analyze these Obsidian notes and provide for EACH note:
+1. A 1-2 sentence summary
+2. Up to 5 relevant hashtags (from: #book, #AI, #meditation, #spirituality, #philosophy, #productivity, #programming, #health, #finance, #psychology, #relationship, #career, #education, #travel, #creativity, #science, #technology, #business, #writing, #personal)
+3. 5-10 key concepts/keywords
+
+Please respond in this exact JSON format:
+```json
+{
+  "summaries": [
+    {
+      "note_id": "NOTE_ID_HERE",
+      "path": "PATH_HERE",
+      "ai_summary": "Brief summary here",
+      "ai_hashtags": ["#tag1", "#tag2"],
+      "ai_keywords": ["keyword1", "keyword2"]
+    }
+  ]
+}
+```
+
+Here are the notes to analyze:
+
+
+---
+Note 1 (ID: 800_Ressources/107_Self_Improvement/Mastering the Core Teachings of Buddha - Daniel Ingram.excalidraw)
+Path: 800_Ressources/107_Self_Improvement/Mastering the Core Teachings of Buddha - Daniel Ingram.excalidraw.md
+Name: Mastering the Core Teachings of Buddha - Daniel Ingram.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+Parent::[[Read Books List]]
+
+# Excalidraw Data
+## Text Elements
+A & P ^xZjablrx
+
+Arising and Passing Away ^zhtDVW5s
+
+Good Framework ^owoW0r46
+
+Not Idealistic
+Detailed and Comprehensive ^yqupXuUg
+
+Meditation Techniques ^3RLjRlKU
+
+Secular
+Technical
+Pragmatic
+Reproducable Resuts ^aFbLUUuW
+
+Dhamma Movement ^y0G1wKaL
+
+Pragmatic
+Dharma Movement ^LO4Jp4PO
+
+Key Principles ^c6LNv2Bk
+
+What works is Key. ^2LEUwz8J
+
+We can improve our mind's function
+and perception of reality ^nLGXQJWO
+
+Combination of most useful techiques
+from all traditions ^jMeahbWC
+
+Approach of
+this book ^nOGmoFOS
+
+Infinite Axes of Development ^03GurEiO
+
+Pragmatic ^Z63Q6BSw
+
+Purposefull ^UkGYx3VW
+
+Smart ^Oc8T85b6
+
+3 Trainings of Buddha ^6J9RVu7t
+
+Part 1 ^zH1OsQnM
+
+Part 2 - Light and Shadows ^qxZ9Kcqu
+
+Premises
+Goals
+Practices
+Standards for Mastery
+Pitfalls
+Limitations
+Shadow Side  ^8gwL8S1b
+
+each have ^gjrndfno
+
+Chapter x - The Progress of Insight ^v7obfRi8
+
+Maps of the stages of Insight ^FjPPFfnW
+
+Table of
+Contents ^fopL1HDY
+
+Core Insight Practices ^nx4N6bWC
+
+Chapter x - The Three Character
+
+---
+Note 2 (ID: 800_Ressources/107_Self_Improvement/Power of Thinking Small)
+Path: 800_Ressources/107_Self_Improvement/Power of Thinking Small.md
+Name: Power of Thinking Small.md
+
+Content:
+
+# Power of Thinking Small regarding Career Planning and Projects
+- See everything you do as building blocks that are valuable within themselves. -> Create ==Win Win== Situations. If what you do is not successfull, the knowledge you gain can be used as ==Building Blocks== for other Projects.
+- If you are not using a building block in a final product you can use it in another way.
+- Deconstruct big Tasks and Projects in smaller Tasks
+- Dial down the scope
+	- Ship small and concrete
+	- Large Projects 
+- Assemble new Tasks/Projects from existing Projects
+	- Example Woodworking:
+		- Project 1.1: Epoxy Geschenk Tim
+		- Project 1.2: CNC gefräster Schriftzug
+		- Project 2: Epoxy Regal mit gefrästem Schriftzug
+
+
+
+---
+Note 3 (ID: 800_Ressources/107_Self_Improvement/Victor Frankle - Logotherapy - Relation between Purpose and Mental Illness)
+Path: 800_Ressources/107_Self_Improvement/Victor Frankle - Logotherapy - Relation between Purpose and Mental Illness.md
+Name: Victor Frankle - Logotherapy - Relation between Purpose and Mental Illness.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+# Excalidraw Data
+## Text Elements
+Logotherapy ^p275jCV9
+
+Developed by [[Victor Frankl]] ^fMpiNa54
+
+Meaninglessness/Emptiness ^cbnEF8qT
+
+Mental Illness ^MdpnDLDu
+
+says ^l1Uspqaq
+
+lead to ^JmmTUgNT
+
+Mental Wellbeing ^alfibJCZ
+
+vs ^ccfEdQTq
+
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQA2bQB2GjoghH0EDihmbgBtcDBQMBLoeHF0KCwoVJLIRhZ2LjR4gEZ4/lKG1k4AOU4xblaeAE4kgGYAFiSABh4kzshCZgAR
+
+dKribgAzAjDFiBJuCDh5gFYAKwBhADUR2tKtwnx8AGVYYKPBD3uBKFI2ADWCAA6iR1NxJvtmH9AQg3jAPhIvod9v8/JIOOFcmhWvs2HBcNg1DAhjMZvtrMpEahyYVIJhuAAOGYjbQjcanVqTEbc07jeLjEb7EloZytRmTcbaGbxRmnGZJZnimanKEwoGXNj4NikI4AYlaCENhp+EE0hIByjRHGImu1uokf2szAJgWypooYMkQ3F2nGSRGjJGpxGP
+
+FOpx44tVdKkCEIymk3DDUIQCE2aEj83ipySrVD+ytwjgAEliNjUAU6pARtd9HAjDgjAAlAAK+kmACFCB2Tq1xggABIQOkAXX2W3ImVL3A4QmeqOENsxzHLs/nMc0i+IAFFgplsuW8mOY0I4MRcBshhN+UkkgLQ7L9kQOACZ3P8E+2NggenUDt8HsMZbJwUAvIQRgVDwtJ1BAwHZAAYrg+hPCKqC4jGVSYDUEgADJsMobDqEwuBwCSqKUAAKtURx4
+
+QRRHkKRpqYVAACCRDKM
+
+---
+Note 4 (ID: 800_Ressources/108_Lifestyle_Business/Business Startup Ideas)
+Path: 800_Ressources/108_Lifestyle_Business/Business Startup Ideas.md
+Name: Business Startup Ideas.md
+
+Content:
+---
+tags:
+  - 🧠
+  - 📝
+  - 🗒️
+publish: true
+aliases: 
+m_type: note
+banner: "![[note.avif]]"
+banner_icon: 🗒️
+banner_y: 0.16001
+---
+
+# `=this.file.name`
+---
+
+- Geometric Wood Wall Art with CNC Router and Epoxy
+	- Online Shop where Customers can choose type of wood, Epoxy Color, Epoxy Glitter Amount and Image which will be CNC routed on Wood and filled with Epoxy
+	- Custom Prints are also possible 
+	- ![[Pasted image 20220914080150.png]]
+- Moosbilder auf Etsy
+	- Verschiedene Moosbilder mit Beleuchtung
+- [[Möbel aus Ultraleicht Beton]] 
+	- (Sandwitch Bauweise mit Styroporkern, Holzkanten mit Schraubinserts zur Verarbeitung und Armierung aus Drahtgeflecht welche an Holzkanten befestigt ist)
+	- Wetterbeständig
+	- Modernes Design
+	- Kostengünstig im Vergleich zu Holz
+	- USP: Gibt es bisher noch nicht ?
+- Leuchtendes Regal aus Epoxy
+	- Ein Halterungsschiene mit 2 Stromleitschienen.
+	- Regale können Horizontal entlang der Halterungsschiene verschoben werden
+	- Smartes Netzteil, welches in Hue oder andere Smarte Home Systeme integrierbar ist
+- Buch schreiben
+	- Dystopisch
+	- Wenige reiche Menschen haben alles Geld angehäuft.
+	- Menschen sind für sie zur Produktion nicht notwendig. Sie besitze
+
+---
+Note 5 (ID: 800_Ressources/109_Literatur/Das Schloss (Franz Kafka))
+Path: 800_Ressources/109_Literatur/Das Schloss (Franz Kafka).md
+Name: Das Schloss (Franz Kafka).md
+
+Content:
+
+Parent::[[Franz Kafka]]
+Parent::[[Read Books List]]
+
+
+# Das Schloß
+
+![rw-book-cover](https://m.media-amazon.com/images/I/712l6VOVjhL._SY160.jpg)
+
+## Metadata
+- Author: [[Franz Kafka]]
+- Full Title: Das Schloß
+- Category: #books
+
+## Highlights
+- aber ebenso gewiß ist es, daß dieser hübsche, verständige Junge mit einer anderen Frau glücklicher, womit ich gleichzeitig meine, selbständiger, fleißiger, männlicher geworden wäre. Und Sie selbst sind doch gewiß nicht glücklich und, wie Sie sagten, ohne die drei Andenken wollten Sie gar nicht weiterleben, und herzkrank sind Sie auch. ([Location 1381](https://readwise.io/to_kindle?action=open&asin=B01GGLAM18&location=1381))
+- Nun, gegen Späße gibt es keine Einwände, ([Location 1498](https://readwise.io/to_kindle?action=open&asin=B01GGLAM18&location=1498))
+# Das Schloß
+
+![rw-book-cover](https://m.media-amazon.com/images/I/712l6VOVjhL._SY160.jpg)
+
+## Metadata
+- Author: [[Franz Kafka]]
+- Full Title: Das Schloß
+- Category: #books
+
+## Highlights
+- aber ebenso gewiß ist es, daß dieser hübsche, verständige Junge mit einer anderen Frau glücklicher, womit ich gleichzeitig meine, selbständiger, fleißiger, männlicher geworden wäre. Und Sie selbst sind
+
+---
+Note 6 (ID: 800_Ressources/109_Literatur/Franz Kafka)
+Path: 800_Ressources/109_Literatur/Franz Kafka.md
+Name: Franz Kafka.md
+
+Content:
+# Franz Kafka
+
+![rw-book-cover](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Franz_Kafka%2C_1923.jpg/1200px-Franz_Kafka%2C_1923.jpg)
+
+## Metadata
+- Author: [[wikipedia.org]]
+- Full Title: Franz Kafka
+- Category: #articles
+- Document Note: Test
+- Document Tags: [[literatur]] 
+- Summary: Franz Kafka war ein deutschsprachiger Schriftsteller, dessen Werke zur Weltliteratur zählen. Er hatte Schwierigkeiten, eine kulturelle Identität zu finden, da er in Prag als Böhme deutscher Sprache geboren wurde. Kafka war bekannt für seinen unvergleichlichen Stil, der sich durch klare und nüchterne Beschreibungen auszeichnete. Sein Werk, darunter "Die Verwandlung" und "Der Process", zeigte seine Fähigkeit, verstörende Themen auf eine konzentrierte Weise zu präsentieren. Kafka hatte einen großen Einfluss auf die moderne Literatur und wird heute als einer der meistgelesenen Autoren der deutschen Sprache angesehen.
+- URL: https://de.wikipedia.org/wiki/Franz_Kafka
+
+## Highlights
+- Max Brods Freundschaft war für Kafka sein ganzes Erwachsenenleben von großer Bedeutung. Brod glaubte unabänderlich an Kafkas literarisches Genie und hat ihn immer wieder zum Schreiben und Publizieren ermuntert und
+
+---
+Note 7 (ID: 800_Ressources/110_Career/2024 Analysis of current and future Market - Which Skills are needed to thrive as an employee or Entrepreneur)
+Path: 800_Ressources/110_Career/2024 Analysis of current and future Market - Which Skills are needed to thrive as an employee or Entrepreneur.md
+Name: 2024 Analysis of current and future Market - Which Skills are needed to thrive as an employee or Entrepreneur.md
+
+Content:
+### **1. Self-Assessment**
+
+Start by understanding your current strengths, interests, and goals.
+
+- **Conduct a SWOT Analysis**: Evaluate my Strengths, Weaknesses, Opportunities, and Threats.
+- **Identify your passions and interests**: Consider what excites you and aligns with your values.
+- **Determine transferable skills**: Skills like communication, problem-solving, and adaptability are valuable across industries.
+
+---
+
+### **2. Analyze Industry Trends**
+
+Research which skills are in demand and likely to grow in importance.
+
+- **Explore emerging industries**: Look into AI, renewable energy, biotechnology, cybersecurity, etc.
+- **Use job market insights**: Websites like LinkedIn, Glassdoor, and labor market reports highlight trending skills.
+- **Follow thought leaders**: Listen to experts in your industry for future predictions.
+
+---
+
+### **3. Engage with Tools and Technology**
+
+Familiarize yourself with tools and platforms shaping the future.
+
+- **Stay updated with tech advancements**: AI, blockchain, data analytics, and automation.
+- **Learn popular software or platforms**: For example, Python for data, Canva for design, or Notion for productivity.
+- **Experiment with no-code t
+
+---
+Note 8 (ID: 800_Ressources/110_Career/Ehrliche Meinung - In 3 Jahren Programmierer ueberfluessig (Morpheus Tutorial))
+Path: 800_Ressources/110_Career/Ehrliche Meinung - In 3 Jahren Programmierer ueberfluessig (Morpheus Tutorial).md
+Name: Ehrliche Meinung - In 3 Jahren Programmierer ueberfluessig (Morpheus Tutorial).md
+
+Content:
+
+[Ehrliche Meinung: In 3 Jahren: Programmierer überflüssig? - YouTube](https://www.youtube.com/watch?v=IcZBnIWLimM)
+
+Morpheus Tutorial hat mit Chat GPT All One Pro App entwickelt
+
+Brücke zwischen klassischer SW und KI:
+- KI Nicht deterministisch
+- SW deterministisch
+- Brücke zwischen KI und SW: Von KI entwickelte SW -> deterministische KI (Agent)
+
+Von KI entwickelte SW ist der Gamechanger -> KI nimmt Arbeit ab
+
+Chat GPT All One Pro vs Github Copilot
+
+
+
+AGI (Artificial General Intelligence) vs ASI (Artificial Super Intelligence):
+	ASI: Fähigkeiten größer als Mensch
+
+Github Copilot $ drastisch veraltet: Benutzt GPT4
+Kann nicht mit 01Pro oder 01Mini mithalten
+
+Nächstes Jahr 2025 ist Jahr der AI Agents
+
+Github Copilot Workspaces -> Guter Prozess um Issues zu fixen
+
+Wenn Fehler auftritt wird Fehler an KI zurückgegeben und Prozess iterativ wiederholt
+
+Post Scarcity World: Alles ist im Überfluss da. < Steiniger Weg und dauert Jahrzehnte
+
+Divide and Conquer: 
+- Aufteilung von SW in modulare und minimalistische Agents
+
+Aktuelle Probelem für KI:
+- Sehr schlecht designter Legacy Code (Nicht modularisiert, unnötig verschachtelt)
+Code Smells:
+- Files > 400 LOCs
+- Anpassungen von vielen verschie
+
+---
+Note 9 (ID: 800_Ressources/110_Career/Finde dein Passion - Knowing when to Quit.excalidraw)
+Path: 800_Ressources/110_Career/Finde dein Passion - Knowing when to Quit.excalidraw.md
+Name: Finde dein Passion - Knowing when to Quit.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Excalidraw Data
+## Text Elements
+Grind ^A2cRi1nJ
+
+Flow/Fun ^wRiTaAHc
+
+Knowing when to Quit ^I16fO0zJ
+
+Quit ^XXh4aRFN
+
+Grind ^G5Z23voJ
+
+Flow/Fun ^ICXDmi75
+
+Stick with it ^iLMyuVVe
+
+Passing of Time ^zADNqiUn
+
+## Embedded Files
+df6cfc78dd5ac0a11259c811597879fb8a4c95f4: [[005_Media/IconsColor/1617107-essentials/svg/055-exit.svg]]
+
+9c46623e96d7e2daf0aff02010c1e0923f7e1b76: [[005_Media/Icons/_Favorites/hourglass.svg]]
+
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQA2bQB2GjoghH0EDihmbgBtcDBQMBKIEm4GADk2AGsAGUwOJPoARQBROABJAGVCACkKGCEADihUkshYRArA7CiOZWDx0sxu
+
+ZwBGHkSABiThzYBWflKYbh4k7XWAFiuDgGZD48gKEnVuYe3LnnXtgE47pJHQqQSQIQjKaTcO5AiYQayLcSobZPCDMKCkWoIADCbHwbFIFQAxOsECSSctIJpcNgasoMUIOMQcXiCRJ0dZmHBcIFshSIAAzQj4fDdWBLCSCDx8tEYmoIADqr0kZxRMsxopg4vQkvKKPpEI44VyaHWKLYXOwalOJu2yOBEDpwi6xGNqDyAF0UfzyJlOsRuBwhMK9cJG
+
+YbmK7irCpoi7sCAL6qhAIf1oJLbA6/f6ApIoxgsdhcNBXO7xPNMVicaocMTcda/DNJaHreIw0qEZgAEXSUBT3H5BDCKM0oeIb
+
+---
+Note 10 (ID: 800_Ressources/110_Career/Finde dein Passion - Knowing when to Quit)
+Path: 800_Ressources/110_Career/Finde dein Passion - Knowing when to Quit.md
+Name: Finde dein Passion - Knowing when to Quit.md
+
+Content:
+Bei der [[Karriereplanung]] solltest du nur die Dinge berücksichtigen die du stunden lange am Stück machen kannst ohne dass langweilig wird oder es sich wie ein Kampf anfühlt.
+Anstrengung ist zwar Teil von jeder Aufgabe. Allerdings sollte dies nur ein kleinerer Teil der Gesamtaufgabe sein.
+Vielleicht 30% Grind, 70% Flow/Spass.
+Du solltest in der Lage sein die Aufgabe mindestens 40 Stunden die Woche durchzuführen.
+Am Anfang, wenn man etwas aufbaut oder mit etwas startet ist es eventuell normal, dass mehr Grind erforderlich ist, so dass das Verhältnis eher 70% Grind ist und 30% Flow.
+Es sollte einem aber mit der Zeit leichter fallen.
+Wenn es nach mehreren Monaten nicht immer etwas leichter fällt, sondern eher schwerer ist es Zeit aufzugeben
+
+Inspiration: Marc Manson Podcast - How to Get Out of a Rut, Pain and Boredom and Knowing when to Quit -> Mark gibt sein Musikstudium, als er merkt, dass es ihm mit der Zeit nicht leichter fällt und er zunehmend leidet und zurückfällt.
+
+
+![[Finde dein Passion - Knowing when to Quit.excalidraw]]

@@ -1,0 +1,674 @@
+Please analyze these Obsidian notes and provide for EACH note:
+1. A 1-2 sentence summary
+2. Up to 5 relevant hashtags (from: #book, #AI, #meditation, #spirituality, #philosophy, #productivity, #programming, #health, #finance, #psychology, #relationship, #career, #education, #travel, #creativity, #science, #technology, #business, #writing, #personal)
+3. 5-10 key concepts/keywords
+
+Please respond in this exact JSON format:
+```json
+{
+  "summaries": [
+    {
+      "note_id": "NOTE_ID_HERE",
+      "path": "PATH_HERE",
+      "ai_summary": "Brief summary here",
+      "ai_hashtags": ["#tag1", "#tag2"],
+      "ai_keywords": ["keyword1", "keyword2"]
+    }
+  ]
+}
+```
+
+Here are the notes to analyze:
+
+
+---
+Note 1 (ID: 800_Ressources/107_Self_Improvement/7 Habits of Highly Effective People - Habit 5 - First Understand)
+Path: 800_Ressources/107_Self_Improvement/7 Habits of Highly Effective People - Habit 5 - First Understand.md
+Name: 7 Habits of Highly Effective People - Habit 5 - First Understand.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Excalidraw Data
+## Text Elements
+The heart has its reasons which reason knows not of. PASCAL ^Gy6fGO4Z
+
+Diagnose before Prescribing ^8gbdjErP
+
+Optometrist Analogy ^mbXy6p6S
+
+Communication ^ae72eHTc
+
+in ^df3GXA4U
+
+Most important Skill in Life ^wifU8m4S
+
+Reading ^Z3d0EcQi
+
+Writing ^QaVbjXGX
+
+Listening ^SDypR0hE
+
+Speaking ^NQUD6BYb
+
+Types ^mjDB5hcd
+
+Personality Ethic Based ^oEnnQQ6R
+
+Character Based ^ASqnTnne
+
+Relationship Based ^ZcVWKi3I
+
+ Diagnosing/Understanding ^lZHdQrVH
+
+Crucial for ^okwKSm3J
+
+as taught in ^xu50sWkq
+
+Not only as taught in ^x2NrL7OE
+
+by ^nzCTaZCD
+
+Manipulation ^6lofZM7F
+
+often feels like ^pBGnAWoo
+
+Natural/Trustworthy/Authentic ^Pi6Df01c
+
+feels ^A0iQsC62
+
+Private Persona ^5hQ53jMN
+
+Public Persona ^zdUhlFqi
+
+alligned ^mE904FWC
+
+means ^lFzXgekT
+
+People open Themselves up to you ^wxImobvo
+
+Relationships are sustainable ^bh4dZwiB
+
+True Connection becomes possible ^CMXwqSmL
+
+Alignment ^stwixbO5
+
+Selective Listening ^PhNPdtZQ
+
+Empathic Listening ^uHaVWjCd
+
+Active Listening ^FP51LebT
+
+Not Listening ^iZR4FE8I
+
+4 Kinds of
+Listening ^7NrvX
+
+---
+Note 2 (ID: 800_Ressources/107_Self_Improvement/7 Habits of Highly Effective People - Habit 6 - Synergize_)
+Path: 800_Ressources/107_Self_Improvement/7 Habits of Highly Effective People - Habit 6 - Synergize_.md
+Name: 7 Habits of Highly Effective People - Habit 6 - Synergize_.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Excalidraw Data
+## Text Elements
+TBD Application Suggestions (51%) 
+1. Identify a Quadrant II activity you know has been neglected in your life -- 
+... ^b8gepU89
+
+Habit 6 - Synergize TM ^nl3qigXm
+
+Synergy ^PXypyrUP
+
+Principle-Centered Activities ^VHOULCs4
+
+esscence of ^Mc5nwBre
+
+Meaning ^0YBk61et
+
+Whole is greater than it's parts ^DmZSC2OJ
+
+Creative Process ^BbWFN3WN
+
+Challenges ^Sxoc3ytg
+
+Unclear Path ^7CxyhQmI
+
+Unclear Goal ^8Yy74eR2
+
+Internal Security ^PAE1xfU9
+
+require ^T3IeXX68
+
+Comfort Zone ^NkdNPy4d
+
+to leave ^RFzDgTvp
+
+Oportunities ^lMCSe8dL
+
+New Territories ^9MwbyEp7
+
+New Possibilites ^GGZlBMX1
+
+Growth ^GMUTIl7V
+
+1+1 => 3 ^aZ5GzpN7
+
+Build on Strength ^vqPHWrGd
+
+Compensate Weaknesses ^RiK3J0GZ
+
+New Paradigm ^RjWjhgDu
+
+service ^immIGx58
+
+contribution ^NGOdm5zF
+
+less protective ^rBxHzFiI
+
+less adversarial ^ZypltmrC
+
+open ^7HUKs1re
+
+forgiving ^cie2qeUA
+
+Synergistic Communication ^Cqk5MdYu
+
+Opening mind and heart to new possibilities ^S8htC10J
+
+Prerequisites ^K5td1U0K
+
+Trust ^gzyeCCe6
+
+Prerequisites ^TKzZq2V9
+
+Negative Synergy ^P4EMcXIs
+
+vs ^W
+
+---
+Note 3 (ID: 800_Ressources/107_Self_Improvement/7 Habits of Highly Effective People - Habit 7 - Sharpen the Saw)
+Path: 800_Ressources/107_Self_Improvement/7 Habits of Highly Effective People - Habit 7 - Sharpen the Saw.md
+Name: 7 Habits of Highly Effective People - Habit 7 - Sharpen the Saw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Excalidraw Data
+## Text Elements
+Habit 7 - Sharpen the Saw ^FI0w8Fkz
+
+Balance and Renewal ^SguY2U3E
+
+4 Dimensions of Nature ^GCd6qrLB
+
+Physical ^NjpROBzy
+
+Spiritual ^Akk3BZxo
+
+Mental ^RIjym972
+
+Social ^qol9mvLx
+
+must include all ^KgaLRt9Q
+
+Individuals ^qa3XXCyO
+
+Company
+Equivalents ^2hwgdbpP
+
+Economics ^VcaYU4gv
+
+Recognition, 
+Development 
+and use of 
+Talent ^An6zvoY8
+
+Human 
+Relations ^hWFCe38s
+
+Culture ^wki4F87z
+
+Effectiveness ^tOBuAyAF
+
+needed for ^RsnmBCvd
+
+Negative Downpulling
+Force is created ^ekYWJNqY
+
+otherwise ^MkNF9rLx
+
+Each Dimension affects each other
+(Positive Correlation) ^NyiAye7h
+
+Optimal Synergy ^lLGxdbrS
+
+between ^D4IDdGqZ
+
+7 Habits ^hR4p1oxX
+
+create ^kFLU4pwh
+
+Quadrant II Renewing
+Energies  ^vY76tv3Y
+
+Practicing one Habit
+helps Practice other Habits ^XBHMvrHm
+
+E.g. Good Sleep/Progress in 
+"Physical" Dimension
+leads to less Depression
+/Progress in "Mental" Dimension ^53RGiAzt
+
+Synergy ^4L17qmUv
+
+Habits ^y63CAjeh
+
+4 Dimensions ^F0P13MVN
+
+Other
+Habits ^Bq59A8WL
+
+Spent at least 1 Hour
+Daily ^ZtKj0K3Q
+
+Upward Spiral ^B1xwe8L6
+
+result
+
+---
+Note 4 (ID: 800_Ressources/107_Self_Improvement/7 Habits of Highly Effective People - Private Victory)
+Path: 800_Ressources/107_Self_Improvement/7 Habits of Highly Effective People - Private Victory.md
+Name: 7 Habits of Highly Effective People - Private Victory.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Excalidraw Data
+## Text Elements
+People can only experience true success and enduring
+happiness as they learn and integrate these
+principles into their basic character ^w0VFb3rx
+
+## Embedded Files
+8c29cdeb5700918d80ff743b646e40d26d48b30b: [[Pasted Image 20240324170608_773.png]]
+
+4693729ac37e7d3b87e87b15dafd691e0908d692: [[Pasted Image 20240324170939_851.png]]
+
+6f6e9df87893f58f39761b0ace22d2da620cba2c: [[Pasted Image 20240324171027_864.png]]
+
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQA2bQB2GjoghH0EDihmbgBtcDBQMBKIEm4ygFVlADEAKwBRTABOAFYAeTYAOQAzABkAfSSAFgAFGoQASVSSyFhECsJ9aKR+
+
+UsxuZwBmAAZh7R4ADmbDncOR1uHh1sPhtcgYTa2j7WuARjekt/PW+4gKEjqbg3JLaZpJHbxeI7N7DKHNZpbP6SBCEZTSbhbLZ3QqQazKYLcHZ/ZhQUhsADWCAAwmx8GxSBUydZmHBcIFsjNSppcNgKcpyUIOMRafTGRJmRxWeyslAuZAeoR8PgAMqwQkSQQeeUQUnkqkAdUBkm4fFxurJlIQapgGvQWvKf0F6I44VyaDefzYbOwakeHp2xPNAuEc
+
+EmxHdqDyAF0/j1yJlw9wOEJlU7hMLXcxIym0+awghiNxPoitvE3q14r9zYwWOwuGgkki
+
+---
+Note 5 (ID: 800_Ressources/107_Self_Improvement/7 Habits of Highly Effective People - Public Victory)
+Path: 800_Ressources/107_Self_Improvement/7 Habits of Highly Effective People - Public Victory.md
+Name: 7 Habits of Highly Effective People - Public Victory.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Excalidraw Data
+## Text Elements
+There can be no friendship without confidence, 
+and no confidence without integrity. ^UV9okwob
+
+Private Victory ^3dt7hX2S
+
+Public Victory ^Zwc7GqLD
+
+Precondition for ^KNBSbQzo
+
+Roots ^6fx0eOIS
+
+Leaves ^pwRRhqw5
+
+Achievement ^Y46cBDvY
+
+Choice ^ZVsZ2ctl
+
+Character Ethic ^MKXYQ0Xp
+
+Interdependence ^ADHrt3ET
+
+Independence ^en7KBl3G
+
+Acute Pain ^AqROG21k
+
+No Private Victory ^QNvJqun1
+
+Private Life ^f5xGPtUd
+
+Social Life ^yuOY12Q8
+
+Can be ignored in ^G99CLgAD
+
+Surfaces painfully in ^NA9yxlSs
+
+Explanation ^R5aOJ1ys
+
+No Public Victory without Private Victory ^Vd2ancri
+
+Personality Ethic ^HKvomijt
+
+Symptoms ^TKVOVvYv
+
+Fixes/
+Hides ^8XkO3iK1
+
+Root Cause ^OnBASHcw
+
+Fixes ^MrQ7Y8bp
+
+Counter Productive ^S9zUoY1I
+
+P/PC Balance ^hc50pGg6
+
+Goose and Egg Metaphor ^9ZKsMUY5
+
+Effective Interactions ^Pul1w3gW
+
+Emotional Bank Account ^rmQnrZ3G
+
+Relationships ^dHnOj52c
+
+Benefits ^Nt7xxRb5
+
+Nurture Relationships ^WJnHtgXL
+
+communication is easy,
+instant, and effective. ^RaEi4N9q
+
+High Balance ^RMa0197n
+
+Low Balance ^Ht8EgTbU
+
+Kindness, G
+
+---
+Note 6 (ID: 800_Ressources/107_Self_Improvement/BoaP - 4000 Weeks (Oliver Burkeman).excalidraw)
+Path: 800_Ressources/107_Self_Improvement/BoaP - 4000 Weeks (Oliver Burkeman).excalidraw.md
+Name: BoaP - 4000 Weeks (Oliver Burkeman).excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+# AI Summary
+## **⏳ 1. Die harte Realität unserer Zeit**
+
+🕰️ **Ein durchschnittliches Leben = 4000 Wochen**  
+🧐 Zählt man das Leben in Wochen statt in Jahren, wirkt es **erschreckend kurz**.  
+💡 Kein Wunder, dass wir versuchen, jede Minute **effizient zu nutzen** – aber macht uns das wirklich glücklich? 🤔€
+
+---
+
+## **⚠️ 2. Die Produktivitätsfalle: Mehr tun ist nicht die Lösung**
+
+### ❌ **Busysein ist keine Tugend**
+
+🚀 **Früher war Wohlstand = weniger Arbeit**  
+🛠️ **Heute gilt: Mehr Arbeit = mehr Erfolg**  
+📊 **Studien zeigen:** Je mehr Geld wir haben, desto größer unser Gefühl von **Zeitmangel**.
+
+### 🎭 **Das Paradox der Produktivität**
+
+💻 Oliver Burkeman war ein **Produktivitätsjunkie**  
+📆 Er plante sein Leben in 15-Minuten-Blöcken  
+📧 Je mehr er optimierte, desto **mehr Arbeit kam auf ihn zu**  
+📉 **Fazit:** Optimierung schafft oft nur noch mehr Aufgaben, aber nicht mehr Zufriedenheit.
+
+🛑 **🚦 Lösun
+
+---
+Note 7 (ID: 800_Ressources/107_Self_Improvement/BoaP - 7 Habits of Highly Effective People Overview.excalidraw)
+Path: 800_Ressources/107_Self_Improvement/BoaP - 7 Habits of Highly Effective People Overview.excalidraw.md
+Name: BoaP - 7 Habits of Highly Effective People Overview.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+Parent::[[MOC - Self Improvement]]
+Child::[[7 Habits of Highly Effective People - Public Victory]]
+Child::[[7 Habits of Highly Effective People - Private Victory ]]
+Child::[[7 Habits of Highly Effective People - Habit 1 - Be Proactive]]
+Child::[[7 Habits of Highly Effective People - Habit 2 - Beginn with the End in Mind ]]
+Child::[[7 Habits of Highly Effective People - Habit 3 - Put First Things First]]
+Child::[[7 Habits of Highly Effective People - Habit 4 - Think WinWin]]
+Child::[[7 Habits of Highly Effective People - Habit 5 - First Understand ]]
+Child::[[7 Habits of Highly Effective People - Habit 6 - Synergize ]]
+Child::[[7 Habits of Highly Effective People - Habit 7 - Sharpen the Saw ]]
+
+# Excalidraw Data
+## Text Elements
+Independence ^aPk6IgV2
+
+[[7 Habits of Highly Effective People - Habit 4 - Think WinWin|Habit 4
+Think Win/Win]] ^oQ4CHba4
+
+[[7 Habits of Highly Effective People - Public Victory|Public Victory]] ^TqpwDwKZ
+
+[[7 Habits of Highly Effective People - Habit 5 - First Understand | Habit 5
+First Understand]] ^VJe2Ix7i
+
+[[7 Habits of Hi
+
+---
+Note 8 (ID: 800_Ressources/107_Self_Improvement/BoaP - Deep Work (Cal Newport).excalidraw)
+Path: 800_Ressources/107_Self_Improvement/BoaP - Deep Work (Cal Newport).excalidraw.md
+Name: BoaP - Deep Work (Cal Newport).excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+Parent::[[Read Books List]]
+Child::[[Deep vs. Shallow work]]
+Child::[[Ask Your Boss for a Shallow Work Budget]]
+Child::[[Packing Party]]
+Child::[[Shutdown complete]]:w
+
+
+
+# Excalidraw Data
+## Text Elements
+1) INTRODUCTION ^05rG2bUf
+
+2) DEEP WORK IS VALUABLE ^rPZebKFb
+
+A DEEP LIFE IS A GOOD LIFE ^LlROv6cE
+
+Picture someone living a life in such a way that it resonates, it feels authentic, and interesting, and resilient... that they're not the type of person who's going to look back at the end of their life and say
+"What did I do?" ^K5V7iwPX
+
+Slow Productivity ^8KwbQF1n
+
+Fast Productivity ^za1Ygl2Y
+
+4) DEEP WORK IS MEANINGFUL ^ecHB3VCf
+
+3) DEEP WORK IS RARE ^9wiEtCSu
+
+THE CASE FOR DEEP WORK ^hiqpNcgq
+
+IMPLEMENTATING DEEP WORK ^iGFvuFjw
+
+5) BUILD SYSTEMS TO SUPPORT DEEP WORK ^NRH50IUB
+
+8) MAKE ROOM FOR DEEP WORK ^4JkMK2qD
+
+6) YOU NEED DOWNTIME ^E8rP5JQq
+
+7) QUIT SOCIAL MEDIA ^e1B3VPzC
+
+## Element Links
+LlRO
+
+---
+Note 9 (ID: 800_Ressources/107_Self_Improvement/Brianna Wiest - 101 Essays, die dein Leben verändern werden.excalidraw)
+Path: 800_Ressources/107_Self_Improvement/Brianna Wiest - 101 Essays, die dein Leben verändern werden.excalidraw.md
+Name: Brianna Wiest - 101 Essays, die dein Leben verändern werden.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+# Excalidraw Data
+## Text Elements
+If you want to change your life, change your beliefs. If you want to change your beliefs, go out and have experiences that make them real to you. ^CsuvC8FU
+
+Gemini Summary ^GY7qZaIi
+
+Core Themes: ^PGT0YcXi
+
+The Power of Thoughts: ^kNtivzHP
+
+Wiest emphasizes that our thoughts, not experiences, determine how we interpret and feel about situations. ^LHpKPRUG
+
+Challenging Cognitive Biases: ^XiHubrvT
+
+She encourages readers to be aware of cognitive biases that shape their thinking and understanding of the world. ^FqExmpPD
+
+Embracing Routine and Purpose: ^SpSTVXh4
+
+The book explores the value of daily routines for providing structure and purpose, and the importance of pursuing purpose over passion. ^9GkYTNgq
+
+The Importance of Self-Awareness: ^QekrJPMd
+
+Wiest encourages introspection and self-discovery, helping readers understand themselves better. ^baOkiOTg
+
+Finding Meanin
+
+---
+Note 10 (ID: 800_Ressources/107_Self_Improvement/Bullshit Jobs - David Graeber.excalidraw)
+Path: 800_Ressources/107_Self_Improvement/Bullshit Jobs - David Graeber.excalidraw.md
+Name: Bullshit Jobs - David Graeber.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+![[Philosophische Auffassungen über Arbeit.pdf]]
+
+![[Managerial Feudalism - Verwaltungsfeudalismus.pdf]]
+
+![[Moralische Bedeutung von Arbeit - Philosophische Perspektiven.pdf]]
+
+# Excalidraw Data
+## Text Elements
+Keynes Utopia ^6n1CIyWG
+
+15 hour Work week ^MwCbftyt
+
+Increase Automation and Productivity  ^8VWf9yrk
+
+Did not become True ^hb4LL97f
+
+because ^w5GOwoXG
+
+Invention of Bullship Jobs ^O84fJxat
+
+Productive Jobs ^SOjIchk1
+
+Service/Admin Jobs ^184SztNM
+
+Automation ^C9RCexzV
+
+Communismn ^QG2V5di3
+
+Capitalismn ^yZy3BT5X
+
+As many work as needed
+is created ^iiZ89F9D
+
+Should be efficient.
+Only necessary Jobs
+EXCEPTION: Inefficiencies are 
+possible if People with Money
+Pay for them. ^eiGaXor7
+
+apparent
+Paradox ^nUdImXkG
+
+explanation ^m9CBKDDu
+
+Rule of Capital ^VA28PwTh
+
+In Capitalismn Money is driving Force ^Gpsy2a9c
+
+1% Riches People determine:
+- Course of Humanity
+- Culture, Values
+- News
+- ... ^qCe4iRMS

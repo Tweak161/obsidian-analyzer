@@ -1,0 +1,62 @@
+# Vault analysis data - contains personal vault information
+vault_analysis.json
+vault_analysis_with_git.json
+git_history_cache.json
+ai_classifications.json
+
+# Batch processing files
+*_batch.json
+batch*.json
+current_batch.json
+next_batch_to_classify.json
+remaining_notes.json
+
+# Log files
+*.log
+
+# Environment files
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# API keys and secrets
+secrets.json
+config.json
+credentials.json
+
+# Any file with "private" or "personal" in the name
+*private*
+*personal*
+
+# Backup files
+*.bak
+*.backup
+
+# Analysis outputs that might contain vault data
+800_ressources_batch.json
+analyzer_output.log

@@ -1,0 +1,611 @@
+Please analyze these Obsidian notes and provide for EACH note:
+1. A 1-2 sentence summary
+2. Up to 5 relevant hashtags (from: #book, #AI, #meditation, #spirituality, #philosophy, #productivity, #programming, #health, #finance, #psychology, #relationship, #career, #education, #travel, #creativity, #science, #technology, #business, #writing, #personal)
+3. 5-10 key concepts/keywords
+
+Please respond in this exact JSON format:
+```json
+{
+  "summaries": [
+    {
+      "note_id": "NOTE_ID_HERE",
+      "path": "PATH_HERE",
+      "ai_summary": "Brief summary here",
+      "ai_hashtags": ["#tag1", "#tag2"],
+      "ai_keywords": ["keyword1", "keyword2"]
+    }
+  ]
+}
+```
+
+Here are the notes to analyze:
+
+
+---
+Note 1 (ID: 800_Ressources/107_Self_Improvement/Brianna Wiest - 101 Essays, die dein Leben verändern werden.excalidraw)
+Path: 800_Ressources/107_Self_Improvement/Brianna Wiest - 101 Essays, die dein Leben verändern werden.excalidraw.md
+Name: Brianna Wiest - 101 Essays, die dein Leben verändern werden.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+# Excalidraw Data
+## Text Elements
+If you want to change your life, change your beliefs. If you want to change your beliefs, go out and have experiences that make them real to you. ^CsuvC8FU
+
+Gemini Summary ^GY7qZaIi
+
+Core Themes: ^PGT0YcXi
+
+The Power of Thoughts: ^kNtivzHP
+
+Wiest emphasizes that our thoughts, not experiences, determine how we interpret and feel about situations. ^LHpKPRUG
+
+Challenging Cognitive Biases: ^XiHubrvT
+
+She encourages readers to be aware of cognitive biases that shape their thinking and understanding of the world. ^FqExmpPD
+
+Embracing Routine and Purpose: ^SpSTVXh4
+
+The book explores the value of daily routines for providing structure and purpose, and the importance of pursuing purpose over passion. ^9GkYTNgq
+
+The Importance of Self-Awareness: ^QekrJPMd
+
+Wiest encourages introspection and self-discovery, helping readers understand themselves better. ^baOkiOTg
+
+Finding Meaning in Life: ^EjC5bv7V
+
+The essays delve into topics like the meaning of life, how to measure a good life, and the importance of solitude and self-reflection. ^8zoyAwmR
+
+Key Concepts Explored: ^KH8filMv
+
+Purpose vs. Passion: ^rIvBKlSa
+
+Distinguishing between pursuing passions and finding purpose, and 
+
+---
+Note 2 (ID: 800_Ressources/107_Self_Improvement/Bullshit Jobs - David Graeber.excalidraw)
+Path: 800_Ressources/107_Self_Improvement/Bullshit Jobs - David Graeber.excalidraw.md
+Name: Bullshit Jobs - David Graeber.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+![[Philosophische Auffassungen über Arbeit.pdf]]
+
+![[Managerial Feudalism - Verwaltungsfeudalismus.pdf]]
+
+![[Moralische Bedeutung von Arbeit - Philosophische Perspektiven.pdf]]
+
+# Excalidraw Data
+## Text Elements
+Keynes Utopia ^6n1CIyWG
+
+15 hour Work week ^MwCbftyt
+
+Increase Automation and Productivity  ^8VWf9yrk
+
+Did not become True ^hb4LL97f
+
+because ^w5GOwoXG
+
+Invention of Bullship Jobs ^O84fJxat
+
+Productive Jobs ^SOjIchk1
+
+Service/Admin Jobs ^184SztNM
+
+Automation ^C9RCexzV
+
+Communismn ^QG2V5di3
+
+Capitalismn ^yZy3BT5X
+
+As many work as needed
+is created ^iiZ89F9D
+
+Should be efficient.
+Only necessary Jobs
+EXCEPTION: Inefficiencies are 
+possible if People with Money
+Pay for them. ^eiGaXor7
+
+apparent
+Paradox ^nUdImXkG
+
+explanation ^m9CBKDDu
+
+Rule of Capital ^VA28PwTh
+
+In Capitalismn Money is driving Force ^Gpsy2a9c
+
+1% Riches People determine:
+- Course of Humanity
+- Culture, Values
+- News
+- ... ^qCe4iRMS
+
+Examples of Bullshit Jobs ^CJYsOgar
+
+Financial Services
+Layers
+Advertisement ^uj7O3LMF
+
+Does your Job meaningfully contribute to the world? ^1i3IOgkn
+
+Identify Bullshit Jobs ^ZTymiVa3
+
+Around 40% Bullshit Jobs in Industrialized Economies ^bkolOYRY
+
+Research ^VoC8lsF1
+
+Neoliberal Free Market (NFM) 
+
+---
+Note 3 (ID: 800_Ressources/107_Self_Improvement/David Burns - Feeling Great.excalidraw)
+Path: 800_Ressources/107_Self_Improvement/David Burns - Feeling Great.excalidraw.md
+Name: David Burns - Feeling Great.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+Parent::[[Read Books List]]
+
+# Excalidraw Data
+## Text Elements
+Section II
+How to Crush Distorted Thoughts ^Ddff6dx8
+
+Positive ^xfoeV2Zk
+
+Negative ^m0PLytPz
+
+Mania ^Vz0v7w0r
+
+Narcissism ^7oovqvMk
+
+Relationship
+Conflicts ^zYbSdKB4
+
+ Anger and
+Violence ^pbRRm3Zb
+
+Depression ^YiDIBvoy
+
+Anxiety ^jJn60l9v
+
+Shame ^qMbHt81D
+
+Inadequacy ^TAwGPJO4
+
+Hopelessness ^KHYBJPut
+
+All or Nothing Thinking ^0myvjQa2
+
+Perfectionism ^Qnrlm4Uc
+
+side effect ^xwxNRn51
+
+Thinking in Shades of Grey ^Gwym7IV8
+
+solution ^W73oBVLg
+
+0 - 100% ^TJpMswAO
+
+Idealismus =freier Wille ^hXsm6RbF
+
+Va Schopenhauer ^wnKFIt22
+
+Wille zur Macht  ^StuYGZjD
+
+Nietzsche ^lAvD1OHL
+
+Somatisch. = körperlich ^ZoAu8HcX
+
+Tram ^byINoiFL
+
+Keen zeitgefühl ^rIxMhRLb
+
+Sense of tone ^yZao748O
+
+Funktion von Dreams ^qr5zJJNb
+
+Guards dreams j keeps asleep ^ExFLCQBB
+
+Process experiences ^Tkb6NANK
+
+Dreams similar to Psychosen ^jrOuUTON
+
+E.g unable t to lead relationships ^5dla5tlM
+
+Unbewusst ^uObJX2hh
+
+Deskriptiv ^lM00R6JI
+
+Dynamisch ^wxti9O9n
+
+ Vor Bewusst ^fvAlxK6r
+
+Leiblich ^q9dsdBeM
+
+Gesellschaft unabhängig ^rKRASN9h
+
+Sozial konstruiert ^9tkp5730
+
+Your Daily Mood Journal - Change the Way you Feel ^Ai6c3xML
+
+Hinweis von Kollege auf Fehler ^5w3dNur1
+
+Working Principle ^pHZkCEh5
+
+Learn universally
+applicable techniques ^ikRTVlOI
+
+Problems Patterns
+Repeat themselves continously ^pEozzfYU
+
+Individual Problem Sol
+
+---
+Note 4 (ID: 800_Ressources/107_Self_Improvement/Energy Investment Portfolio - Do Less)
+Path: 800_Ressources/107_Self_Improvement/Energy Investment Portfolio - Do Less.md
+Name: Energy Investment Portfolio - Do Less.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+# Excalidraw Data
+## Text Elements
+## Embedded Files
+c315fd0a8c0fb7380269f14e72f797c84552c09e: [[Pasted Image 20241207134021_666.svg]]
+
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQA2bQB2GjoghH0EDihmbgBtcDBQMBLoeHF0Qn1opH5SxhZ2LjQeAE4AVjrIBtZOADlOMW4ARlbWgA4ABmGAZgAWVrmuiEJm
+
+ABF0qARibgAzAjDlkm4IZgAhNbOATQBpKHwAUQAxAH01p6E5gGU+gDVCACKM1SJUgu0I+HwX1gwROklw2A0gRBpWYUFIbAA1ggAOokdQjZZojHY6EwWESQQeFGQDF+SQccK5NDDZZsOAItQwEaTSbLazKCmoPmFSCYEbtGatBLjeJzcZzdo8ObDKYzZbctDOWby7STOY8drtJLy4ZJHiTPii07orEIADCbHwbFIJ3R1mYHMC2RpEE0CMxyjpHGIj
+
+udrok7o4ntw3qgvoo+Mk3DmvOWkgQhGU0hTaetYW2IzmSUmxva8Xa42WQeEcAAksRmag8gBdZa7ciZBvcDhCSHLYPERnMJu9/vWzTCEMPYKZbJN1vLIRwYi4LY7FlJGYzY3jJLjZX75ZEDiYnt9/DHtjYbEb1D7fCHa3YIRogxrNe4bjFUErZgAQQ4REXULNB0SEBBRQAXyJKIoFfE5EBDQgOGUX1wWCbsJGwGZhnaXZiEmXBxmwSZdk0Lcph4eJ
+
+Wl2YY5gQc1diSVokmwBUjR4UjWlqfN3AqApQTAVlRWE0U22tFDiCwE5NDw31sAxOBz0hQooPACTIFwOA4GhNcKh/aAM0yE4iGzeM6gYQgEAoM4AxrIQQzDF0TgAYieDzPJRCAX1IOM6y2fRoRJB0nRciRXN5KLJm83z/MCuybwcpywojdAoxjONYpEeKMieCEoRhCopARJFeNKOKsigAKMmCu08WIAkWUsyrshqoLbVJIqTipY4Wpyqr2oAJWEbN
+
+hybESKoGtrAoAeQ
+
+---
+Note 5 (ID: 800_Ressources/107_Self_Improvement/Feel Good Productiity - The Long Term Horizon - The Eulogy Method)
+Path: 800_Ressources/107_Self_Improvement/Feel Good Productiity - The Long Term Horizon - The Eulogy Method.md
+Name: Feel Good Productiity - The Long Term Horizon - The Eulogy Method.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+Similar::[[7 Habits of Highly Effective People - Habit 2 - Beginn with the End in Mind ]]
+# Excalidraw Data
+## Text Elements
+## Embedded Files
+217fa3f3f72c5b147aeeeacad93c21b6537e680f: [[Pasted Image 20241207134022_051.svg]]
+
+df46c5ede61adb8132aff73e8fd67d368f799035: [[gravestone-coffin-funeral-death-memento-mori.svg]]
+
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQA2bQB2GjoghH0EDihmbgBtcDBQMBLoeHF0Qn1opH5SxhZ2LjQeHgBGOsgG1k4AOU4xbjakgBYAZja2gAYAThHOiEJmABF0
+
+qARibgAzAjCFkm4IAFkAQSMAGSP9ZzH9EdwAVgBFKwAxAGsAeUJVVJLILaEfD4ADKsGCh0kuGwGkCf1KzCgpDY7wQAHUSOohgtEcjUWCYBCJIIPPDIMi/JIOOFcmgOoVIGw4NC1DAhlMpgtrMoiahOQyIJghg8xgAObSipJJMWi+I8UbxaULNktB5TbQPeKTGaisYjHiih6inhjHFIlEIADCbHwbFIhyR1mYzMC2TJEE00PeygpHGI1tt9okjo4z
+
+twrqg7oomMk3BGHIWkgQP2kcYTArCG247RGD1aYxmSVFCx9wjgAEliLTUHkALoLLbkTKV7gcITAha+4jU5jVtsdgWaYR+gCiwUy2WrdYWQjgxFw602dOlYweSTmMwLSXiCyIHHerfb+F3bGwqKXqB2+D2AuwQkRBmWC9w3GK/0WzBOHBhdqzaCRQgIAyAC+ZoLvehyIH6hAcMo7qAsELYSO0SQ7GMWzoUkPDYA8mhtCMSS4AgxHQrgxCbtg7SaPE
+
+IpJAg8SilMWzusw7gVAU/xgPSnFtAy9YCjBxBYIceEABLutgyJwIewKFKBhRvpABwSAAmvEAAKADiMyfL47qwIg
+
+---
+Note 6 (ID: 800_Ressources/107_Self_Improvement/Feel Good Productivity (Ali Abdaal).excalidraw)
+Path: 800_Ressources/107_Self_Improvement/Feel Good Productivity (Ali Abdaal).excalidraw.md
+Name: Feel Good Productivity (Ali Abdaal).excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+# Summary
+## Key Mindset
+- Treat each principle and strategy as a scientist. Try it out for yourself.
+- What would I do even if I know I WOULD fail?
+- What would it look like if it were fun?
+- Every Job is a Game.
+
+## 3 Pillars
+- ==Energize==
+	- Play
+		- Create an Adventure
+			- Choose Your Character
+			- Embrace Your Curiosity
+		- Find the Fun
+			- What Would this look like if it were fun?
+			- Enjoy the Process, Not the Outcome
+		- Lower the Stakes
+			- Reframe Your Failure
+			- Don't be Serious. Be Sincere
+	- Power
+		- Boost your **Confidence**
+			- The Confidence Switch
+			- The Social Model Method
+		- Level Up Your **Skills**
+			- The Soshin Approach (Beginners Mind)
+			- The Protege Effect
+		- **Ownership** of Your Work
+			- Own the Process
+			- Own your Mindset
+	- People
+		- Find your Scene
+			- The Comrade Mindset
+			- Find Synchronicity
+		- Feel the Helper's High
+			- Random Acts of Kindness
+			- Ask for Help from Others
+		- Overcommunicate
+			- Overcommunicate the Good
+			- Overcommunicate the not so Good
+- ==Unblock==
+	- Seek Clarity
+		- The Fog of Uncertainty
+			- Using Cmomander's Intent
+			- The Five Whys
+		- Ask "What"
+			- ~~SMART~~ NICE Goals (Near Term, Input Based, Controllable,
+
+---
+Note 7 (ID: 800_Ressources/107_Self_Improvement/Four Thousand Weeks - Oliver Burkeman.excalidraw)
+Path: 800_Ressources/107_Self_Improvement/Four Thousand Weeks - Oliver Burkeman.excalidraw.md
+Name: Four Thousand Weeks - Oliver Burkeman.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+# Excalidraw Data
+## Text Elements
+Summary:
+Use of time 
+Move from adverserial relationship with time to harmonic relationship
+Anti Productivity Book. Productivity is a trap and distraction from what is really important.
+Meaning ^WqAoVk1C
+
+Aversion to being still and alone. ^uTK1P5d0
+
+Infinite possibility vs Joy of missing out ^bh2zJS4Y
+
+Renunciation of Alternatives makes Choices Meaningfull ^e6eRAaIV
+
+Comittment to Choice -> Anxiety disappears, Choice becomes meaningfull ^OOV8UwFY
+
+4) Become a better Procrastinator ^neb6M6n4
+
+5) The Watermelon Problem ^m3ikTqYJ
+
+April 2016:
+30 Armed Conflicts + Presidential Campaign vs Buzfeed Watermellon Rubbar Band Stream
+
+Distractions -> 
+
+What you pay Attention to == Your Life
+
+Pay Attention to what is meaningful
+
+Chose what to pay attention to. Dont allow big companies to choose for you (Instagram, Facebook, Google, ...)
+
+Trap: Learn to be undistracted (Meditation, Blocker Apps, ...)
+2nd Truth about Human Limitation: You cannot get sovereignty about attention.
+We are evolutionary programmed to be distracted (tiger in the bushes, beautifl woman, ...)
+
+Voluntary Attention vs Involuntary Attention.
+Difference between well lived and hellish live.
+Increase Volun
+
+---
+Note 8 (ID: 800_Ressources/107_Self_Improvement/From Strength to Strength - Arthur Brooks.excalidraw)
+Path: 800_Ressources/107_Self_Improvement/From Strength to Strength - Arthur Brooks.excalidraw.md
+Name: From Strength to Strength - Arthur Brooks.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+# Excalidraw Data
+## Text Elements
+airplane famouse person wants to bne dead ^TKnkLsYD
+
+f´famous person wn´a ^i9P0Cy0G
+
+Strivers ourse ^mQnVlLA4
+
+way to escape course ^006uox31
+
+üFind true meaning ^q2AkcuoK
+
+go against setriver ^ZsxmpA1H
+
+Embrawce eweaknesses ^r6Bef2Kz
+
+Charles Darwinpü++++++++++++++++++++++++++ ^OamFt0YJ
+
+decline is inevitsble ^ggFuhIJf
+
+40-50 >Jahre ^zrFHOVMW
+
+Atthletes peakt at 30 to 40 (enduratnce) ^qsgYrtcR
+
+Major scientific nobel price winning breakthroughs between 30 ynd 40 ^qzaeVIy6
+
+Research Peak at 40-50 ^dkxeALYw
+
+Entrepeneurs peak 20 to 40 ^CXhCHsZG
+
+5% of founders are over 60 ^vsuEQ8qC
+
+halflife of careers (e.g. novelist 20 years) > complete half of all work ^IAk10Z5S
+
+Prefrontal corex decliens at 30 ^zIQP5OrO
+
+Dirac vs polling: dealintg with Irrelevance ^mY1K4jXO
+
+Memories of past relevance ^WGuSIkuE
+
+Treat life like startup >secret to happiness. do what feels right not good ^Mew0dBQW
+
+increase happiness span ^t0Rwb27t
+
+big attachment to achievementb > missery ^P7k4DIKO
+
+Feelings vs happiness: >Happiness causes feelings ^t4Uz5SgI
+
+Happiness vs unhappiness: Negatives are favoured by evolution ^vgquOHNs
+
+Basic emotions: fear angere disgust (holocaust) sadness, joy, in
+
+---
+Note 9 (ID: 800_Ressources/107_Self_Improvement/Impulse Control and Breaking bad Habits)
+Path: 800_Ressources/107_Self_Improvement/Impulse Control and Breaking bad Habits.md
+Name: Impulse Control and Breaking bad Habits.md
+
+Content:
+---
+tags:
+  - 🧠
+  - 📝
+  - 🗒️
+publish: true
+aliases: 
+m_type: note
+banner: "![[note.avif]]"
+banner_icon: 🗒️
+banner_y: 0.16001
+---
+
+Parent::[[MOC - Self Improvement]]
+
+# `=this.file.name`
+---
+**Key Words**: Impulskontrolle, impulse control, Schlechte Gewohnheit, Bad Habit
+
+# Sources
+https://www.healthline.com/health/how-to-break-a-habit#visualize
+
+# Problem
+- Emotions drive behaviour, not logic.
+	- We do something before we are aware of it
+		- e.g. opening Youtube, checking the smartphone, opening mydealz
+# Technique
+1.  Practice how to recognize an urge before you act impulsively.
+2.  Put a name on that urge. For example, “This is anger I feel.”
+3.  Identify the action that emotion is leading you to. For example, “I want to criticize my spouse (because I’m angry).”
+4.  Identify what you need to do to stop the impulsive behavior. For example, “I need to express my frustration without making it personal.” Or, “I need to step away, take a moment, and come back later.”
+5.  Approach the situation once your urge has decreased.
+6.  Document your emotion, what you felt like doing, and what you ended up doing.
+
+# Making of a bad Habit
+-   **Reminder.** 
+	- This is a trigger, or cue, that could be a:
+		- ==conscious behavior==, such as arriving home, flushing the toilet
+		- or a ==feeling==, such as boredom, loneliness, nervousness.
+-   **Routine.** 
+	- This is the behavior associated with the trigger. 
+	- Flushing the toilet cues you to wash your hands, while feeling nervous triggers b
+
+---
+Note 10 (ID: 800_Ressources/107_Self_Improvement/KISS - Keep It Simple and Stupid.excalidraw)
+Path: 800_Ressources/107_Self_Improvement/KISS - Keep It Simple and Stupid.excalidraw.md
+Name: KISS - Keep It Simple and Stupid.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+# Excalidraw Data
+## Text Elements
+K ^iWLfcLrR
+
+I ^KIIzGzU4
+
+S ^1up3bg7w
+
+S ^gwotkycq
+
+eep ^673M7jKA
+
+t ^yW6gnTz1
+
+imple ^j31ySycp
+
+tupid ^WcS80Sp2
+
+KISS ^v7UDt6eF
+
+## Embedded Files
+cd55050dac2cf514b26b50bb2e731fac2aa58289: [[059-kissing.svg]]
+
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQA2bQB2GjoghH0EDihmbgBtcDBQMBKIEm4ygHUAGQAzbGrSACVUkshYRAqoLChW0sxuZx4ARgAGbQBWAE4kiZ4pgBZFsdGJ
+
+/lKYQeH4he0F0bGAZgXtmZ54qcP1yAoSdW4eQ+0ADnikqY+p4eHD0ef565SBCEZTSbgLNaFSDWZTBbijQHMKCkNgAawQAGE2Pg2KQKgBiBCjQ4/YZ9SCaXDYVHKFFCDjELE4vESZHWZhwXCBbLkiC1Qj4fAAZVgcIkgg8vKRKPRlTukgeiORaIQIpgYvQEvKgLpoI44VyaGGgLYnOwak2RtGCKhEFpwjgAEliIbUHkALqA2rkTLO7gcISCwGEBlY
+
+Cq4Ua8ukM/XMV0BoO2sIIYjceKrA48HijPi2xgsdhcI3GvNMVicABynDEDxzExJ71+weYABF0t1U2hagQwoDNMIGQBRYKZbLxwP4QFCODEXAd7jDJKHQ47Z5zCZrhaAogcVH+ifbtjUlPcbv4Xu27qYXoSADSUcoABUehV717OFAhYQjOJUCv39kABiuD6AKlqoJCbTQD0ACCRDKEW6DBLUvSAvmUDmAQcEgoh0CmryejZLgIZMH6aAJpOtq4iCI
+
+YEM+16vryuBCFAbBNOE36/siQgINuJEABLAqCN6oMM2g8BMhQAL7rMUpTlHejqOkYADiRgAKoLLyHS/tBDGAgMaBDH8exLnMUzWgshzPM8syAuBzhjM8yTfEkBwLPEhxJG5ByArcxD3EaUwJMMnzPJcww2QsSTxPEg

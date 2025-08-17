@@ -1,0 +1,1036 @@
+Found vault at: /mnt/c/Users/hess/OneDrive/Dokumente/MyVault
+Found 55 notes in 800_Ressources without AI summaries
+
+============================================================
+BATCH 1 of 6
+============================================================
+
+Copy the following prompt and paste it into your Claude conversation:
+------------------------------------------------------------
+Please analyze these Obsidian notes and provide for EACH note:
+1. A 1-2 sentence summary
+2. Up to 5 relevant hashtags (from: #book, #journal, #moc, #AI, #meditation, #spirituality, #philosophy, #productivity, #programming, #health, #finance, #psychology, #relationship, #career, #education, #travel, #creativity, #science, #technology, #business, #writing, #personal)
+   - Use #book for book summaries or notes about books
+   - Use #journal for personal journal entries or reflections
+   - Use #moc for "Map of Content" notes that organize and link to other notes
+3. 5-10 key concepts/keywords
+
+Please respond in this exact JSON format:
+```json
+{
+  "summaries": [
+    {
+      "note_id": "NOTE_ID_HERE",
+      "path": "PATH_HERE",
+      "ai_summary": "Brief summary here",
+      "ai_hashtags": ["#tag1", "#tag2"],
+      "ai_keywords": ["keyword1", "keyword2"]
+    }
+  ]
+}
+```
+
+Here are the notes to analyze:
+
+
+---
+Note 1 (ID: 800_Ressources/100_Philosophy/Friedrich Nietzsche - Amor Fati - Weg zum Glück)
+Path: 800_Ressources/100_Philosophy/Friedrich Nietzsche - Amor Fati - Weg zum Glück.md
+Name: Friedrich Nietzsche - Amor Fati - Weg zum Glück.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+# Excalidraw Data
+## Text Elements
+Amor Fati ^caI64vFe
+
+Liebe das Schicksal ^Znq9pQCz
+
+Alle Gefühle Lieben ^3kKJngmr
+
+Verzweiflung ^wxr2apu1
+
+Freude ^IdxkHqKP
+
+liebe ^CbZwh7Vl
+
+Positive Psychologie ^oK04QRdw
+
+da ^XJeqQ2uU
+
+Unvermeidbar ^YLiyrJKz
+
+Stoische Akzeptanz/Ateraxia ^Metvt5BX
+
+Wachstum und Fortschritt ^SKN3UdoV
+
+da sie
+dazu führt ^AsuvEeaz
+
+Vorraussetzung
+für ^1rexCveb
+
+
+%%
+## Drawing
+```compressed-json
+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
+
+---
+Note 2 (ID: 800_Ressources/104_Buddhism/Vipassana 10 Tages Kurs in Triebel Restored)
+Path: 800_Ressources/104_Buddhism/Vipassana 10 Tages Kurs in Triebel Restored.md
+Name: Vipassana 10 Tages Kurs in Triebel Restored.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Excalidraw Data
+## Text Elements
+Metta ^XGDI4JBA
+
+Meditationstechniken ^AfnB0qgA
+
+Sanskara ^2aOruKv7
+
+Sankhara = Graben ^6QNYNcfl
+
+Unterbewusstsein ^PFLECIP4
+
+Negative Erinnerungen ^rjsoatmi
+
+Hass, Verlangen,
+Wut, Angst, Abneigung ^RO4SfXA4
+
+Samen ^2MMU4pqF
+
+Frucht ^zVrE7PyH
+
+Verdorbener Samen ^iZ2C5jlz
+
+Verdorbene Frucht
+Leid (Dukkha) ^QVe7SaaV
+
+6 Sinneswahrnehmungen (Vinyanas) ^0cjsFMrL
+
+Sehen ^4wuY8Dnv
+
+Hören ^C5LC7wsQ
+
+Riechen ^lk2Jzizl
+
+Tasten/Körperempfindungen ^GgUUiT3n
+
+Schmecken ^ELYIdkM6
+
+Gedanken ^BViGaP3v
+
+Ablehnung oder
+Verlangen ^ON3BQzwV
+
+3 Arten ^5ri7zy6s
+
+Linie auf Wasser ^ZXaF0ZaH
+
+Linie auf Sand ^K3dJfyTj
+
+Linie auf Fels ^Qteqfk1h
+
+You remember 1 or 2
+per Day/Month/Year  ^4Rvky4dQ
+
+Repeated Recalls -> Deeper ^yDT9rZJR
+
+Unterbreche Zyklus hier
+durch Gleichmütige (Equanimous)
+Wahrnehmung ^xHhdOznA
+
+Unterbewusstsein ist spürbar ^oUJockc0
+
+Vipassana
+Meditation ^tFjw1NFL
+
+5 Daseinsfaktoren (Skandhas) ^Vf0EAb4s
+
+Empfindung (Vedana) ^sh7h5ypT
+
+Denken (Sanjna) ^XRLf38pc
+
+Aspekte die
+Persönlichkeit/Ego
+ausmachen ^Rv441jli
+
+Bewusstsein (Vijnana) ^ZKWkFjxS
+
+Reaktion - Wille/Begehren
+(Sanskara) ^dLHL6w4k
+
+Leib/Form
+(Rupa) ^AaZ75Dlx
+
+Weißheit
+(Panna) ^L2EhJvOA
+
+Türe zum
+"Unterbewusstsein" ^t1EUmrP8
+
+Ändere Verhaltensmuster
+an der Wurzel.
+Wahrnehmung und Auflösung
+von Sankharas. ^KjJB9SRU
+
+fühlt/
+erzeugt Gefühle ^aDOyLWAw
+
+erzeugt ^tbOzSl3L
+
+Erfordert Schärfung von Bewusstsein
+von Empfindungen und Kultivierung
+von Gleichmut durch Meditation
+(>>> Erfahrung, nicht nur Verstehen) ^zkTgYYH6
+
+erzeugen ^hHfgvMUC
+
+erzeugen ^VVclCz4i
+
+Erfolgsmetrik: 
+Maß an empfundener Gleichmut + Schärfe des Bewusstseins
+NICHT: Dauer in Zustand "Alles Fein" ^gs9405HW
+
+Tag 1-3 ^GoqXvpZo
+
+Tag 10 ^buuGao5s
+
+Theorie ^7rosXGzF
+
+Warum meditieren? ^FYQjpapq
+
+Wurzeln von Leiden ^vO7TcknJ
+
+erzeugt ^1v2vijku
+
+Ursache ^O9nYhcrv
+
+Wie richtig meditieren? ^p01dAyHH
+
+führt zu ^oJlNCub0
+
+Ignoranz ^NdlDdvdJ
+
+vs ^3w56h0t8
+
+befreit von ^KN5DaClr
+
+Wie meditieren? ^VFyjFxtp
+
+Erzeugungt/
+Multipliziert ^QshzER6i
+
+besteht aus ^lmQS5tfd
+
+von ^Onwez7Ge
+
+Realistischer Optimismus: ^VVH6UfUZ
+
+Das Leben ist Leiden, aber es gibt durch Meditation einen Weg aus dem Leiden.
+Auch wenn der Weg anstrengend ist und Ausdauer erfordert. ^bRWcO3qM
+
+Verlangen - Bodenloser Eimer: ^t2a8A221
+
+Verlangen können nie durch deren Erfüllung befriedigt werden.
+Es wird nie genug sein und durch andere Verlangen ersetzt.
+Nur durch Gleichmütige Wahrnehmung von Verlangen kann es befriedigt werden. ^91wp1986
+
+Wir sind abhängig von Empfindungen.
+Der Ausweg ist die Empfindungen zu beobachten aber sich nicht darin zu verlieren ^MCYM3l9T
+
+Keine neuen Sankharas.
+Alte Sankharas lösen
+sich langsam auf ^YFm6n6cl
+
+Man erkennt wie der Prozess funktioniert. ^c94PF5Ov
+
+10 Tages Kurs: ^cD0rxT4w
+
+Lebenslanger Prozess: ^L10XF9kk
+
+Man arbeitet ein Leben lang.
+Bewusstsein wird immer schärfer.
+Gleichmut w
+
+---
+Note 3 (ID: 800_Ressources/104_Buddhism/Vipassana Meditation Technique)
+Path: 800_Ressources/104_Buddhism/Vipassana Meditation Technique.md
+Name: Vipassana Meditation Technique.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+# Excalidraw Data
+## Text Elements
+Vipassana ^HMfetSMm
+
+Gleichmut ^ryDPUuXW
+
+Bewusstsein ^fybk2Xpr
+
+->
+Alles wandet sich ^gGSUU47M
+
+2500 Jahre alt ^Yvls23cP
+
+Erfunden von Buddha ^ZWasn0D5
+
+Erfahrene Realität
+im Körper ^Qbyuja2k
+
+Fühlen vs Intellektualisieren ^5IPf5Pcu
+
+Bewusstsein von Gefühlen im Körper ^UxnN1Tbh
+
+3 Zustände ^17RZug5u
+
+Alles Fein ^rs4Z5B4A
+
+Grob und Fein ^iiI1FMC2
+
+Alles Grob ^jKFRErDj
+
+Körperscan ^7K4h841b
+
+Scan von Kopf zu Fuss ^gVSRwYDZ
+
+Grund ^T9ggWWRa
+
+Alle Empfindungen bewusst werden,
+Grobe Empfindungen überschatten nicht
+feinere Empfindungen ^H8js1CrS
+
+Grobe Empfindungen ^AyX89eAy
+
+Feine Empfindungen ^96icnRqm
+
+Bewusste Wahrnehmung Körperlicher Empfindungen mit Gleichmut ^Zu1gR5YB
+
+Hitze, Kribbeln, Jucken, Schmerzen ^zKrhLvmM
+
+Realität des Moments ^ZgA4lQFz
+
+Objektive, Gleichmütige Beobachtung ^8S9h7RQ0
+
+Freier Fluss ^UBnyt5z5
+
+Freier Fluss
+wo Fein ^sZZoRrZN
+
+Inkrementeller Scan wo Grob ^bJtrj6Uz
+
+Inkrementeller
+Scan ^Wv32ssPd
+
+Punktuelle Checks ^XQqWgMtc
+
++ ^6ApuT31z
+
++ ^ljDUwx6W
+
+Observe Misery as Misery (1st Nobel Truth -> Misery exists) ^wm02lDiP
+
+Equinamity/Gleichmut to Desire/Aversion/Misery cuts the Roots of Suffering ^hQCNcj6y
+
+Observe Desire as the Root of Suffering (2nd Nobel Truth) ^Hi7PU3dg
+
+4 Nobel Truths need to be experienced not only understood intelectually ^xEzRK2OQ
+
+Anicca ^M1EQgkgr
+
+Adhitthana ^VLoIbsYs
+
+Sitting with strong determination.
+Do not move or open eyes. ^k2ujiSQZ
+
+Keine Empfindung:
+1-2 Minuten an Stelle
+bleiben, dann weiter ^AYWv6zF7
+
+## Embedded Files
+eefad02be9959410d2d3cdde4d30e5f992a9b786: [[meditation-yoga-posture-svgrepo-com.svg]]
+
+73ff54d6adcca5bf2351c8e59a453cdf0467a899: [[balance-scale.svg]]
+
+7dd7632b469b9a9604946bddd8844be7c2f96dfe: [[arrow-right.svg]]
+
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQA2bQB2GjoghH0EDihmbgBtcDBQMBLoeHF0QOwojmVg1JLIRhZ2LjQkgE4+QqamVk4AOU4xbnikgFYu8YBGABZuxohCZgAR
+
+dKgEYm4AMwIw/lKSbggARw6BgFET2Y42AYApSQANegBhE4BVZQBBAGlnADiDVK20I+HwAGVYPUJIIPMCBFBSGwANYIADqJHU3AWpWYSNRCChMBh6DhRwOkGRfkkHHCuTQ00pEDYcFw2DUMG40wADDzmdY6hV+T0IJhuM5pjwAMwADmSs2m42lPFl0p5SVxkC5aGcsp5HQSPPiss60vNqtmzPxyLRrzY+DYpGOAGJpgh3e6ERBNOyUcpqRxiPbHc6
+
+JEjrMw2YFst6KFjJNypdoOtMOklpTMOrMM6b4szJAhCMppNzzQlZbKlR0NTxptLZjzpdaEJtubMsznM0lmQHhHAAJLEBmoAqNSDKABWAAUITy4EIADIAWRgywAms4khcAGLEZf4HgQHoAXWZ23ImSH3A4QnBzMDxDpzBHxUWsEQ3GlPQAvszNMIQYXMEmTZCOeRnqKQhwMQuAbFsjIZg28QmpWszxEyopEBwKI3ne+DMo62BoghqC7Pg+yioQQZY
+
+McuA8seJR/oUb6QB+FRLPo0RIMyzT9G0qDKlqDB9K0QwcCM7Q8BqPJ1uMsrMssazBPBOx7AgimkRAFz0PQ4woh8HwdN6oLgsSpJSOyGiBN6NqEpixDYoy1oEmi5kceSWwPsIJbPiOmGLKy7KctyfICrUpIios4q6lK
+
+---
+Note 4 (ID: 800_Ressources/106_Trading/Fooled by Randomness - Pascal's Wager - Take a Chance if there is a high Payoff and a small Risk)
+Path: 800_Ressources/106_Trading/Fooled by Randomness - Pascal's Wager - Take a Chance if there is a high Payoff and a small Risk.md
+Name: Fooled by Randomness - Pascal's Wager - Take a Chance if there is a high Payoff and a small Risk.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+# Excalidraw Data
+## Text Elements
+Pascal's Wager ^b8NwJYYZ
+
+Use Historically profitable Strategies.
+BUT: Don't manage your Risk based on the historical Data.
+Be much more conservative. ^1NOJMCxZ
+
+
+## Embedded Files
+25b21c6ec7fa3f8895fb619e1a5ed39e75648e67: [[Pascal's Wager Image.png]]
+
+%%
+## Drawing
+```compressed-json
+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
+
+---
+Note 5 (ID: 800_Ressources/106_Trading/Fooled by Randomness - Skewness and Expectation vs Probability)
+Path: 800_Ressources/106_Trading/Fooled by Randomness - Skewness and Expectation vs Probability.md
+Name: Fooled by Randomness - Skewness and Expectation vs Probability.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+# Excalidraw Data
+## Text Elements
+Skewness ^WJRyC8jQ
+
+Expectation = Chance/Risk = Probability * Payoff/Loss ^bMAvXRQe
+
+Probability ^SGJIpx69
+
+Payoff/Loss ^N4Q0XBSx
+
+Expectation ^P9y8Xp2Z
+
++11% ^nFXFrFdv
+
+90% Chance of Losing 10% ^vT2X6tv0
+
+10% Chance of Gaining 200% ^xOFSlqhn
+
++-0% ^l7VMvlDc
+
+Takeaway: Consider Expectation AND Chance/Risk ^UqAhjAIW
+
+
+## Embedded Files
+d073329edd7c5e7edcd385dddda463600f13a75a: [[005_Media/Fooled by Randomness - Skewness and Probability vs Expectation.md]]
+
+3088068115df72c2268f709f645de713a3cea526: [[005_Media/Icons/_Favorites/blood-drop-bleed.svg]]
+
+43bf20a2b1f18d60337c7c7d993f54d639ac9911: [[005_Media/IconsColor/4021411-essentials/svg/034-thumb up.svg]]
+
+%%
+## Drawing
+```compressed-json
+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
+
+---
+Note 6 (ID: 800_Ressources/106_Trading/Fooled by Randomness - Survivorship Bias)
+Path: 800_Ressources/106_Trading/Fooled by Randomness - Survivorship Bias.md
+Name: Fooled by Randomness - Survivorship Bias.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+# Excalidraw Data
+## Text Elements
+Survivorship Bias ^j9awEY4e
+
+Incorrect Conclusion ^5MNV1oOz
+
+Incomplete Data ^fzmUGHx8
+
+dont live
+to tell the tale ^RGMmUwpW
+
+Doesn't get
+pubslished ^OqTTkzuX
+
+due to ^7SyCNFrC
+
+Survivorship Bias: ^s9fo4msN
+
+## Embedded Files
+35f3849006bc4b18a3097bc20bf45c6c988dc5bc: [[Fooled by Randomness - Survivorship Bias - Russion Roulette Example.png]]
+
+0703fb07902748375b9de5ace922f2ad8c551b8c: [[Fooled by Randomness - Survivorship Bias - Monkey Darts Stocks Example.png]]
+
+df46c5ede61adb8132aff73e8fd67d368f799035: [[gravestone-coffin-funeral-death-memento-mori.svg]]
+
+48150eae6d0dc97cb7988efa3d729ccbb62f8605: [[bell-curve-normal-distribution-gauss-curve.svg]]
+
+%%
+## Drawing
+```compressed-json
+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
+
+---
+Note 7 (ID: 800_Ressources/106_Trading/Fooled by Randomness - The Black Swan Problem)
+Path: 800_Ressources/106_Trading/Fooled by Randomness - The Black Swan Problem.md
+Name: Fooled by Randomness - The Black Swan Problem.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+# Excalidraw Data
+## Text Elements
+Black Swan Problem ^huT3oQo0
+
+Be prepared for Black Swan Events.
+Consider them in Risk Management by staying small. ^hTXexSLu
+
+## Embedded Files
+c798aef4ebcf4a74f838cee88ac2d107f0a1ad5a: [[Pasted Image 20241207095057_738.png]]
+
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQA2bQB2GjoghH0EDihmbgBtcDBQMBKIEm4y0gARAFEAaTqAK3oAeQANFpgABgBOKAAWAFUARjgAZgAFVJLIWEQKwOwojmVg
+
+6dLMbmGk/rixgA4unjGAVh6efv2Lk/5SmG5nHi6u7W3es/6erv6xntvICgkdTcHpJOI8fZXYY8L5JeI9MZjf5SBCEZTSbjxeInbT9YZXeLDeI7fonJGFSDWVbiVBdZHMKCkNgAawQAGE2Pg2KQKgBiYYIAUC9aQTS4bDM5RMoQcYgcrk8iSM6zMOC4QLZEUQABmhHw+AAyrA1hJBB4tQymayAOpAyTcPgUiCWlkII0wE3oM3lZHS9EccK5NDDZFs
+
+NXYNT3YPPZFS4RwACSxCDqDyAF1kdryJkk9wOEJ9cjCLKsBVcGMtdLZQHmCnijNoPAaWMKQBfekIBDELbHMZJREIulOxgsdhcNCXP7DpisTgAOU4Ym4J0OzwRPXiReYVXSUC73G1BDCyM0wllNWCmWyKfTyKEcGIuD33eD/dO8R4w36WP6/WRRA4Zk8wLfB/zYCV9zQQ98DCQp20KetIHKCQNAAFTGNgAEU2C6LU5hpaAsCgLVNjQJ4TkSBFhg3B
+
+FfghbZkSjVBnDebQxniRExn6MF9moiFkUBYhgTQLjhleU59niXYTiSXieBuJ1JFRdFiInBSGypT0hwbF1WXlbk+QQLoxmGEytTFCU4xlOVOQMpVyA4VV1SyYjMz1Q1jQI71u3pRlXVtIT7TI3yrTdTyKm8ythH9QMtlDcNIy2GMnSsxNk3yClIAAMVgRprWcE5MJqCgugTZgOAAITGIQACUah6ABZCAKQzJ0s1wHMX1QfNCydYtiFLCRywANSi6y
+
+axTHrQKdMJINQJIwTonZkRHWdx1QX8Q2nUd50XGkdl+fYThkpItx3YJnwPI8EBPM9iAvDIXJvVqG3vR9LtfREKM/b8pL/J0AKAtAprAiCuug48nT3TBVPQCr8HFZlUANChrFQCYmU0S9K0oVCiIqeHEeR1GOHRzHsczTgoANQgjGbTc2qprKOr1Jj1NKaGoAAQSIZR1ogYJtVc7aoHMAgebRfmoDDLU9GyXBiyYXNgZA0NSDRYsCDxmGCYRiVibR
+
+jG7App1cCEaWavCWmaUZIQboBxWAAllIxYNtHkuDbkQsouogXATmIABxRo2UaE4qjgYZUKy5R9kDx3hjnFoarwpsFgQJZNKQZFSN4YyXjGJ54i6Cizg/K5GIebZ+nd39+x6fZv32c5yQbQThNQA4km0FdV2JL8xnz9nICUtFXdQMl3YOGSPzBQkdkdDSVi0kLXX0xV0F5IyTLMk9Eas2V14qZVHLVDVhYbXV9XdT0pHFDRAgtPybTtbh/p05+wo9
+
+LzOR9J0/UkBNOKTowzikStGbSpRUpJhvJlCAOUYB5QKkVEqZVKrVTqo1ZqMwXqlHap1YCvUGz9UGugXA/QxrVliirIhpRZpdWhJJZuCIkiQMgKtMcy4EQrRnGOBcHAlxoF4huI47F9hnV3HNCG9sGynmsg9K8OR8i4MgG9J8c1thfQ/F+H879SiA0IdNBsXIwZXRgggT2CE+q+00PQfQhBtTRyqNgOAEdmAnEkAARyMEkbAFB9Cp3mBIQg+hojZy
+
+dLnfEvRXg8HkgtfoRweDwj0ZAJiLES7aC6DsRhpkrhfHxAJV+Qi+wJC4g3bE0J5LYmRKPFSb9J7F2Ll0Uy8kehNwZkvak3A2HOk/kfeyKoz4uXMvvKsNkFR8m1FM6ZWor4eW/hFX+PkZqfwCh3RedDP43x/uaX00VAHUNQFtBsoCIywCSj06B6U0C3jatmBAytuqqz6iWXOfsTiUOIEAmhRi6GdgYccVhH5fwbPYbwzgWxuI8J2hwfhgiNo9DJN8
+
+fYJkJEXSkddW68jLxPWUXeB86iGFvm+jov6/5ixAyebQyAJjWTg0xSsp8QgUwQEQLKYsyhZl6geb7bASQG64AQNqfoCBNDYGFbgHY2oUX7DEAgSE4oeDEGGFk7UXRcDDFwMQE4uALTuBpAUGYYBjkzGGC1ZE2AmRwEMZYko3tkLoEkKhNoWADQABkhCBIIpzEiWwegIleMSdiJcFrQiOJXESvFtD+oWg3JIJw66nBSRAduQUEU9FxP64uhckhfkb
+
+sm2p48Tg9Kzt01eelbIbwgLyNVsrngjMsmM/pm9pkzLctfcKpollP1CmstNoLemhW2Ys3Z/99nfKOfFMB5yIGxmlGlZ6mZ7mPJ
+
+---
+Note 8 (ID: 800_Ressources/107_Self_Improvement/7 Habits for Highly Effective People - Stimulus Response Freedom Quote)
+Path: 800_Ressources/107_Self_Improvement/7 Habits for Highly Effective People - Stimulus Response Freedom Quote.md
+Name: 7 Habits for Highly Effective People - Stimulus Response Freedom Quote.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+# Excalidraw Data
+## Text Elements
+Between stimulus and response
+man has the freedom to choose. ^DdSUULbr
+
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQA2bQB2GjoghH0EDihmbgBtcDBQMBLoeHF0KCwoVJLIRhZ2LjQAVhaABn5ShtZOADlOMW4k+PiRniSkgEYuyEJmABF0quJu
+
+ADMCMNmIEm4IBeIAZQBVY4AZTVJa0rXCfHxD2GC9wQ9rgShSNgBrBAB1Ejqbh8QofL6/R4wZ4SV67bZfPySDjhXJoGagiBsOC4bBqGDcKbtToY6zKaGoYl1CCYbjOHgTFraADMAA4WVMWQBOCbtFrspnbfFoZxTMZTbQAFh4fIlTIl8p4bO2zE+PwQAGE2Pg2FcJABiHhrTkIeXvCCaHHfZQIjjETXa3WVcgcZjYwLZM0UQGSbhMjnaFqczlJP3y
+
+lp+6XbSQIQjKaTcDrKhAIVatSZMzkSqYtEFU63COAASWIqNQeQAuts1uRMsXuBwhPd4cJbcjmKWG02MZoW8QAKLBTLZUsV7ZCODEXArAkhpljJI5tqE7ZEDjfeuN/ArtjYX6p1AbfBbDFrThQQ6EIwVHiUm5ngBiuH0dyFqHRVKqmBqEgAQggoBQyYcKgKqEPojZCMwqDWMQqCBK6nBhAAOhw+jWKgkihKg6gIAegQpgY2FsKg2CSGwbBhNoZrkB
+
+QAAq1R7H+AFASBUBgRBUEwXB4RwIhCAoWhwGYVBOF4cmxCEVAxGkeRlFmp+UAAIJEMozToMEaw1NsDRse4ymxmp0BYmaejZLghDIqQdZoJ2W4YjqsYWQQ9Ffox/6AVkrHsb4nG2txCEuvxqHocJ2HRmJBH6ERJFkRRCBUSuFkIAAEjGcbfm+2iRt2oRBEl3CytsuBCFJABK4SXhUnxCAg2wWcQWB7Lg7QQIUAC+4CVnQuBwHAjxThUxSQDhmR7Cp
+
+8ZdAwhAIBQP6WvmQi2vaOp7Hq97rRt1wQNgIjulAhZVPojzghqWorfqRKXS1k07aQe0HRkc27gtS1nY60DOq6uB7Vtt33Yd953A8TwVFIOIaIEv27Vk+2HcdaoAsQQJojd0PZA9R2qhCIMvFqcKFNtaOwxkpXCHGbalu+kB/TDGMAPLYrisAEkSqN3bTAMPk+L4Emz/0ZPeZ4XlewK3oT7Po4dLlKSphkaVpBM05LGT9aQSl3WwFDRrg+62XzHMZ
+
+H2tqKRrWshPuEDfV8VD68r+gm9btHlHsNqrJNzDYF89wABrAlmSTaCy8R+vEEosi08QtFMnLu57Wr4AAmgSLITAGLQhlMfpJO04ftBKk1GOR+jcEN9QEDVwLtbbxP6KTi3EBTLyYaQcBbdaJDCxUVMQO3RxVK3rSTb3ACybANUbuCaME+6HsepS98tjqlxAP5ahbpDKBaAAUPBTEk1C8HvB+7/vFIBgAlGa5XKI230u5vuA70ynS8M/x9v2fLSX1
+
+XitE/DvwMzYohDcXYbg1gQOVW0TALLKBLhiLIk9p7cGqrVDE2AiAD2wqQGq2wOBPiqtg1BVJhBQFXAQmqP9Sh2AAFYIGwDkQ4eC4Cj3HngqeKZ1ibCIZAHEbFGC0XIvgOBH5nYwnSPQpoJlIJSX0E7RAIC7JUm1LuDhaBZ7cMgPgUISkJH8MEQo9q4A2r8AgLcYIpZgAdTakAA==
+```
+%%
+
+---
+Note 9 (ID: 800_Ressources/107_Self_Improvement/7 Habits of Highly Effective People - Habit 1 - Be Proactive)
+Path: 800_Ressources/107_Self_Improvement/7 Habits of Highly Effective People - Habit 1 - Be Proactive.md
+Name: 7 Habits of Highly Effective People - Habit 1 - Be Proactive.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+Parent::[[BoaP - 7 Habits of Highly Effective People Overview.excalidraw]]
+# Excalidraw Data
+## Text Elements
+Taking Initiative ^eZVuL5n4
+
+Language ^yaf7Seeo
+
+Proactive - 30 day test ^0ghplgE3
+
+I know of no more encouraging fact than the unquestionable ability of man to elevate his life by conscious endeavor. HENRY DAVID THOREAU ^nGcBJey9
+
+As you read this book, try to stand apart from yourself. Try to project your consciousness upward into a corner of the room and see yourself, in your mind’s eye, reading. Can you look at yourself almost as though you were someone else? ^k0oUlTmq
+
+We are not our feelings.
+We are not our moods.
+We are not even our thoughts. ^7M9h2uPN
+
+Self Awareness ^93vyXZvQ
+
+Objective World View ^1lggJF1l
+
+Empathy ^SOR5TSlX
+
+Defy Cultural
+Conditioning ^BmP4Byo9
+
+Genetic ^DfLXeIvK
+
+Psychic ^sOx1kVDC
+
+Environmental ^CMz3DIOb
+
+Determinism ^2Pht89kg
+
+Based on ^A4coVEtA
+
+Stimulus/Response Theory ^v9LDe9ja
+
+Pavlov’s Dog ^nTBl42jS
+
+Humans are capable to choose
+their response to any stimulus ^ASSWhFyt
+
+Victor Frankl ^eASGMrHs
+
+See ^fXtXSQ7B
+
+Freedom to choose ^qiGvELOg
+
+Imagination ^9aXZpA6s
+
+Ability to plan ^JwmexIWl
+
+Conscience ^d4E9k5pZ
+
+Ability to know right and wrong ^FwoY1Myy
+
+Ability to Act ^18CWgrtZ
+
+Independent Will ^8R1a7upo
+
+Reprogramming the Mind ^qScNyFt6
+
+Behavior/
+Actions/
+Response ^8ECyAA1D
+
+Decisions ^OqCeGjG2
+
+Conditions ^cdUNv9Y6
+
+Determine ^3bZ0LRlt
+
+Do not determine ^DOSLOM8Y
+
+Feelings ^SKJ2X390
+
+Values ^BoXmdlKQ
+
+Rule over ^6bXLzgWV
+
+Responsibility ^eL3xNWeu
+
+Response - Ability ^dOJtp1L0
+
+Ability to choose your response ^17BveViW
+
+determine ^Z4oyF83u
+
+Human Nature ^8O8d7Z3j
+
+Is our ^XjHJSbqU
+
+Reactivity ^PqGujHae
+
+opposite ^jRJN0t3J
+
+Mood ^IyAhk4Er
+
+Don’t affect ^hI24cpSn
+
+Essence
+of
+Proactive
+persons ^jUQqC2GP
+
+“I am what I am today 
+because of the choices I made yesterday,” ^ky4jp8ru
+
+Life Circumstances ^1fxXdYSM
+
+Determines ^ohm32ORS
+
+It’s not what happens to us,
+but our response to what happens to us that hurts us. ^5feNEqW9
+
+Three Central Values ^c1idkRzf
+
+Experiential ^rJxhUZzh
+
+Creative ^pOcL6a0V
+
+How we:
+Respond to hard times.
+Frame Experiences.
+Shift our Paradigms. ^bTD3zNuO
+
+Attitudinal ^SPLAUUlj
+
+Solution Selling ^rgftVnYF
+
+Use R and I ^PfqnDcuV
+
+Resources ^HrIBE1dD
+
+Initiative ^eG9Q5LLR
+
+Affirming ^iShIjIeO
+
+E.g. by ^WdMju8fR
+
+By ^V3BUnWKE
+
+Proactive Language ^7S8fikei
+
+Reactive Language ^Reyjvot7
+
+Self Fulfilling Prophecy ^TN7FHVRs
+
+becomes ^Z9FA954x
+
+Actions control feelings ^t3oiiSsr
+
+Love ^uyYDkafJ
+
+Feeling ^yuYBZXjJ
+
+Verb ^dzcqoNxz
+
+Reactive ^975c2ggA
+
+Proactive ^gjXZVTlL
+
+Circle of Influence ^022eNKru
+
+Circle of Concern ^xpQ0VDcl
+
+Direct Control ^RfGHPvxc
+
+Indirect Control ^Om6k6ytR
+
+Improve Habits ^DCTvqRpH
+
+Improve Methods of
+Influence ^LsAaZxUF
+
+Public Victories ^Ac9TnqRw
+
+Private Victories ^zzKa6sYe
+
+“Lord, give me the courage to change the things which can and
+
+---
+Note 10 (ID: 800_Ressources/107_Self_Improvement/7 Habits of Highly Effective People - Habit 2 - Beginn with the End in Mind_)
+Path: 800_Ressources/107_Self_Improvement/7 Habits of Highly Effective People - Habit 2 - Beginn with the End in Mind_.md
+Name: 7 Habits of Highly Effective People - Habit 2 - Beginn with the End in Mind_.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+# Summary
+
+# Notes
+## Funeral Exercise
+
+
+# Excalidraw Data
+## Text Elements
+Mission Statement ^l7CqsPtd
+
+Everyday Habits
++
+Time Allocation ^ErEZJpPb
+
+reveals ^TXdIJFZP
+
+derrive ^FK4RQmM8
+
+Guidance ^ccjrwGcw
+
+provide ^4GEMjQIM
+
+Ladder
+leaning against wrong Wall ^92eFDn5p
+
+Every Step gets us
+to the wrong Place faster ^UC3SxPua
+
+Everything is Created Twice ^DHQNF3qN
+
+Mental 
+Creation ^9pTV8QUw
+
+Physical
+Creation ^JY13j2k6
+
+Accept Responsibility 
+for Both Creations ^SDw90rrq
+
+Extends Circle of Influence ^Mx01qQfs
+
+By Design ^6cIyRF6D
+
+We design our life through the Power of:
+Self Awareness
+Imagination
+Conscience
+Free Will ^tVUGrEMM
+
+We let our Life be designed by
+Environment, People and
+past Habits ^9bMfSzb1
+
+Habit 1 says, "You are the creator." Habit 2 is the first creation (what?). Habit 3 is the second creatio (How?) ^1FnzcoGB
+
+Management ^0jLJRqIR
+
+Leadership ^75I7nKZ0
+
+What do I want
+to accomplish ? ^4epGUhnQ
+
+How can I best
+accomplish this? ^nHVwZ94f
+
+Where is the ladder leaning? ^P5f1CHcv
+
+Who do I climb
+the ladder efficiently? ^KJ0IPWZW
+
+We often don't know what
+the terrain ahead will be like or
+what we will need to go through it;
+much will depend on our judgment at the time.
+But an inner compass will always give us direction. ^kfjNLtQ8
+
+Efficient management without effective leadership is, as one individual phrased it, "like
+straightening deck chairs on the Titanic." No management success can compensate for failure in leadership. ^Vx3iPoAT
+
+parents are also trapped in the management paradigm, thinking of
+control, efficiency, and rules instead of direction, purpose, and family feeling ^LuwsRyaC
+
+Written
+Down ^ZmB6aTCf
+
+Personal
+to You ^3a68RCbE
+
+Around 
+20-50
+Sentences ^1JjzITKF
+
+Core Values ^wCngdM8Z
+
+Character
+-> What do I want to be ^tHvKJPH6
+
+Contributions and Achievements
+-> What Value do I want to
+bring to the world? ^NKYopISh
+
+Goals + Meaning ^caS2nVpK
+
+Every Decision in Life can be chosen
+based on this Mission Statement ^ovwqKBsq
+
+Timeless strength
+in uncertain times ^67IhS5ca
+
+Direction and Guidance
+in every Life Situation ^RjhMOVpj
+
+People can't live with change if there's not a changeless core inside them ^GcjLk7Gu
+
+Core of own Proactivity ^LayfkbF7
+
+TBD: Do Exercise: Application Suggestions (Appendix A) ^rDCVDsyk
+
+Funeral Exercise ^FdwREapu
+
+avoids ^Mg27sD4B
+
+precedes ^Om9N4NOQ
+
+first !!! ^10xMNCiu
+
+second ^U9j0FTrn
+
+By Default ^mO5l6dL0
+
+Q-I Activity ^ErDcpXLj
+
+Q-II Activity ^ggXa7Lsx
+
+basis for ^E5AiwWZY
+
+By Design or by Default ^rn5sK61u
+
+Habit 2 ^mgnlcL1S
+
+Habit 3 ^UimjkxsS
+
+Mission Statement ^JPsgIFxV
+
+vs ^nRQNm5NE
+
+[[7 Habits of Highly Effective People - Habit 1 - Be Proactive| Habit 1]] ^BgM9JTTn
+
+I can chose where to lean the ladder ^zczlJPpr
+
+Habits 1-3 Build on Each Other ^rOjHaC5K
+
+Application: Mission Statement ^dBPWe99Z
+
+Two Creations ^ItWOMHq8
+
+[[7 Habits of Highly Effective People - H
+
+------------------------------------------------------------
+
+Press Enter to see the next batch...

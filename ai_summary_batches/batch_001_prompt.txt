@@ -1,0 +1,554 @@
+Please analyze these Obsidian notes and provide for EACH note:
+1. A 1-2 sentence summary
+2. Up to 5 relevant hashtags (from: #book, #AI, #meditation, #spirituality, #philosophy, #productivity, #programming, #health, #finance, #psychology, #relationship, #career, #education, #travel, #creativity, #science, #technology, #business, #writing, #personal)
+3. 5-10 key concepts/keywords
+
+Please respond in this exact JSON format:
+```json
+{
+  "summaries": [
+    {
+      "note_id": "NOTE_ID_HERE",
+      "path": "PATH_HERE",
+      "ai_summary": "Brief summary here",
+      "ai_hashtags": ["#tag1", "#tag2"],
+      "ai_keywords": ["keyword1", "keyword2"]
+    }
+  ]
+}
+```
+
+Here are the notes to analyze:
+
+
+---
+Note 1 (ID: 800_Ressources/100_Philosophy/10 Philosophische Wege zum Glück - Walther Ziegler.excalidraw)
+Path: 800_Ressources/100_Philosophy/10 Philosophische Wege zum Glück - Walther Ziegler.excalidraw.md
+Name: 10 Philosophische Wege zum Glück - Walther Ziegler.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+# Excalidraw Data
+## Text Elements
+2) „Du bist, wozu du dich machst“ – existenzialistisch leben wie Sartre und
+Simone de Beauvoir ^9uhlI17A
+
+Frei ^CJftlqQw
+
+Selbstbestimmt ^uRGNuIjI
+
+Leben hier und jetzt Gestalten ^5BpwdXrM
+
+Warten auf Erlösung im Paradies ^AYJvK2Wo
+
+Aufrichtig ^q5UqPYbC
+
+Intensiv ^RlzJ8wpf
+
+Offene Beziehungen ^RFMgF5Pa
+
+Bürgerlich ^KSds23g8
+
+Existinzialismus ^PuPXhTSU
+
+Spannungsverhältnis ^Wq47Jijo
+
+Monogamie ^BVoSA6pe
+
+"Des Schicksals Sterne sind in deiner Brust" - Schiller ^NWORh6P5
+
+Selbst Auferlegte Grenzen ^ds0JpxgC
+
+es gibt nur ^dHqHL4Co
+
+Freiheit zur Positionierung ^AV2LPzXv
+
+Aussehen ^r5krur1W
+
+Intelligenz ^OSxSoQZu
+
+Ökonomisch
+Umstände ^amLekvQu
+
+ABER ^XyBFkdAh
+
+Zugewießenes Schicksal ^rIOlmkR7
+
+Bürde ^zstMkqsN
+
+Erlösung ^OxWCsfmP
+
+Alles schlechte ist
+unsere Schuld ^e7ugKkDx
+
+Absolute Freiheit ^I8ymga1b
+
+Verantwortung ^JGLdO3fD
+
+Der Mensch kommt also nicht fertig auf die Welt. Er muss sich erst zu dem machen, was er sein will. ^yfTFlmf5
+
+Unveränderbar ^HX8wooKR
+
+Jede Entscheidung Für ^rXsCcG67
+
+Entscheidung Gegen 1000 Alter
+
+---
+Note 2 (ID: 800_Ressources/100_Philosophy/Friedrich Nietzsche - Amor Fati - Weg zum Glück)
+Path: 800_Ressources/100_Philosophy/Friedrich Nietzsche - Amor Fati - Weg zum Glück.md
+Name: Friedrich Nietzsche - Amor Fati - Weg zum Glück.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+# Excalidraw Data
+## Text Elements
+Amor Fati ^caI64vFe
+
+Liebe das Schicksal ^Znq9pQCz
+
+Alle Gefühle Lieben ^3kKJngmr
+
+Verzweiflung ^wxr2apu1
+
+Freude ^IdxkHqKP
+
+liebe ^CbZwh7Vl
+
+Positive Psychologie ^oK04QRdw
+
+da ^XJeqQ2uU
+
+Unvermeidbar ^YLiyrJKz
+
+Stoische Akzeptanz/Ateraxia ^Metvt5BX
+
+Wachstum und Fortschritt ^SKN3UdoV
+
+da sie
+dazu führt ^AsuvEeaz
+
+Vorraussetzung
+für ^1rexCveb
+
+
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQA2bQB2GjoghH0EDihmbgBtcDBQMBLoeHF0QOwojmVg1JLIRhZ2LjQAZgBWPkKmplZOADlOMW54gBYABnieAEZO9p7GiEJm
+
+ABF0qARibgAzAjD+UpJuCGJO+igAKwBNSYAtTB4ANU16doAZZgBFKABVODtBqlXaEfD4ADKsHqEkEHmBAigpDYAGsEAB1EjqbhLUrMJGohBQmAw9Bwk5HSDIvySDjhXJoWaUiBsOC4bBqGDcWaTSbM6x1Cp83oQTDcZyzcbxTrJAAcSQWAE5Ju0VZ1ZrLmVy0PF2uNtO1VQtZeNZbzOpNFcz8ci0QBhNj4NikU4AYl2k1l2F5CI
+
+---
+Note 3 (ID: 800_Ressources/100_Philosophy/Ludwig Wittgenstein.excalidraw)
+Path: 800_Ressources/100_Philosophy/Ludwig Wittgenstein.excalidraw.md
+Name: Ludwig Wittgenstein.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Excalidraw Data
+## Text Elements
+Sprachphilosophie ^bE6ZFhJB
+
+Klassische Philosophie ^yFGBoRTj
+
+Transformation ^DrNhWe3w
+
+Die Sprache, so sein Kerngedanke
+ist entscheidend für unser Verständnis der Welt. ^rIWhJnB7
+
+Spekulative und materialistische Basis ^lglXJEHj
+
+Sprachliche Basis ^PFY0vekN
+
+Sprache ^hklKzTLA
+
+Philosophie ^OmPyRYIB
+
+Gedanken ^MZsgbRtI
+
+Voraussetzung für ^DyuHnooE
+
+Die Grenzen meiner Sprache
+bedeuten die Grenzen meiner Welt ^PrtJwx93
+
+Käfig der Sprache ^QVuL2PRN
+
+bestimmen und limitieren ^dsQcAwY1
+
+erfordert ^AqZyE4Oh
+
+Philosophie = Sprachkritik ^0ln3xvUy
+
+Analyse von Sprache ^lTgnaW2p
+
+Eine ganze Woche von Philosophischen
+Fragen reduziert sich zu einen Tröpfchen Sprachlehre ^LBaivWll
+
+Kraftfeld, das unsere gesamte
+Lebenswirklichkeit widerspiegelt und beeinflusst: ^pbOLzNzy
+
+Ingenieur ^TjSsD1Ts
+
+Philosoph wider Willen ^27OBNers
+
+Sohn eines Stahl Magnaten ^1BC70Ww9
+
+Tractatus logico-philosophicus ^5b3tFEM5
+
+Studierte Philosophie (Logiker Fregel, Russle, Moore) ^oq3KBQtj
+
+80 Seiten
+7 Thesen ^NKkSiqB2
+
+7 These: Künftig, so sein Ergeb
+
+---
+Note 4 (ID: 800_Ressources/100_Philosophy/MOC - Philosophie)
+Path: 800_Ressources/100_Philosophy/MOC - Philosophie.md
+Name: MOC - Philosophie.md
+
+Content:
+---
+tags: 🧠/🗺️
+publish: true
+aliases:
+  - null
+cssclass: null
+---
+
+#### [[MOC - Philosophie]]
+![](https://media.istockphoto.com/photos/thinking-man-statue-picture-id1038776952?b=1&k=20&m=1038776952&s=170667a&w=0&h=bhFlCMFa0lv9dYiqA7u-rKmEUz0WaAxg3ZMbfp-mwmI= "Thinking man statue (Black and White with copy space)")
+---
+
+# Overview
+##  Philosophers
+- [[Sophie's World - A Novel About the History of Philosophy - Jostein Gaarder]]
+- [[Friedrich Nietzsche - Overview.excalidraw]]
+- [[10 Philosophische Wege zum Glück - Walther Ziegler.excalidraw]]
+- [[Buddha.excalidraw]]
+- [[Theodor Adorno.excalidraw]]
+- [[Georg Wilhelm Hegel.excalidraw]]
+- [[Immanuel Kant.excalidraw]]
+- [[Juergen Habermas.excalidraw]]
+- [[Martin Heidegger.excalidraw]]
+- [[Slavoj Zizek - Overview.excalidraw]]
+- [[Ludwig Wittgenstein.excalidraw]]
+
+## Schools of Philosophy
+### **Epistemology-Related Philosophies**
+- **Rationalism**: Emphasizes reason as the primary source of knowledge.
+- **Empiricism**: Asserts that knowledge comes from sensory experience.
+- **Skepticism**: Questions the possibility of certain or absolute knowledge.
+- **Constructivism**: Suggests knowledge is constructed by humans through social and individu
+
+---
+Note 5 (ID: 800_Ressources/100_Philosophy/Martin Heidegger.excalidraw)
+Path: 800_Ressources/100_Philosophy/Martin Heidegger.excalidraw.md
+Name: Martin Heidegger.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+Parent::[[MOC - Philosophie]]
+
+# Excalidraw Data
+## Text Elements
+## Embedded Files
+69b7cf5948eafe057b9cff9462a52600e6544810: [[Pasted Image 20240712213957_967.png]]
+
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQA2bQB2GjoghH0EDihmbgBtcDBQMBKIEm4IACkAVgAGBAAFZgBpNQB9AHUATRhMNoBGACEhTCgAFVSSyFhECsJ9aKR+Usxu
+
+ZwBmAE5q7U34gA4k6uXIGDWeWrjqgBYePcPjwsgKEnVuG9qTqQRCZWludb9PhPCDWZTBbifEHMKCkNgAawQAGE2Pg2KQKrDrMw4LhAtlJqVNLhsPDlHChBxiCi0RiJFiODi8VkoITIAAzQj4fAAZVgEIkgg8bIgMLhiI6r0k3GBU1FsIRCD5MAF6CF5S+FL+HHCuTQ/S+bFx2DUZ31tShcvJwjgAEliHrUHkALpfdnkTL27gcITczXCKk65iOn1+
+
+6EIBDEbibdZJa79fb9WrxL6MFjsLj6zappisTgAOU4Ym4QPW62u1XiR32X0IzAAIukoJHuOyCGEvpoA8QAKLBTLZR0ur5CODEXDNqP6pJl+JzsvrOoGkFEDjw72+/BfNGkltoNv4DvQqJQISOiCIKmEDjKEWc4JeiTxTaaJLYdnVTbXfYhdkIWrVEkmibO+7JfvEPC4NUPDxBaCDxDc35JiKzDuOITpPGAy5TFhTyuiC17EFgFS4LUIrYHCcAbty
+
+hQAL7gPhkC4HAcB8hO6HFNMkgZOhEDjqQ67LAwhAIBQgwkmSFJUjS6IVAAxOyilKYSEDYCI+JQLazb6Hy4rIqiskSHJ/
+
+---
+Note 6 (ID: 800_Ressources/100_Philosophy/Schopenhauer.excalidraw)
+Path: 800_Ressources/100_Philosophy/Schopenhauer.excalidraw.md
+Name: Schopenhauer.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFADZFAHYyJE9VGEYwGgQAbQBdcnQoKABlALA+UFkYOIQQXHR8AGtoyXw8bOwNPkZOTExyHRgiACF0VErarkZcAGF6THp8UoBiADN5hZAAXyWgA
+```
+%%
+
+---
+Note 7 (ID: 800_Ressources/100_Philosophy/Siegmund Freud.excalidraw)
+Path: 800_Ressources/100_Philosophy/Siegmund Freud.excalidraw.md
+Name: Siegmund Freud.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Excalidraw Data
+## Text Elements
+Walther Ziegler - Freud in 60 Minuten Kindle ^YYlOwqJ7
+
+Lust Prinzip ^MikVKL7X
+
+Geist/Vernunft ^1qTG0j6r
+
+Gefühl ^0d1xmd6R
+
+Triebwesen ^mOrAbMPC
+
+Freud ^WeLkDLLi
+
+Fokus auf ^5iikulDy
+
+Mensch ^SZFg2njZ
+
+Dualität ^hvyQ1L8b
+
+Diener der Triebe ^5rOHNtG0
+
+Handeln ^IQlN6iOk
+
+Unbewusste Trieben ^46CEfIyg
+
+Bestimmen ^5k8QVrp7
+
+Nicht Her im eigenen Hause ^kdVWGRXm
+
+Unterbewusstsein ^HxEHHfqd
+
+erzeugt durch ^6nIo5FsH
+
+Erkennbar in ^Wp0q6zip
+
+Träumen ^UwDE5VXP
+
+Lachen ^OkCYM3wL
+
+Versprechen ^UmfaLmlL
+
+Kontrolle Durch Bewusstsein ^EiBkACzr
+
+Wichtige Botschaften ^3u97haid
+
+Enthält ^iaCyZP8s
+
+Entschlüsseln ^G7uclHRz
+
+Leben integrieren ^K4vVPHTX
+
+Frei von Zwängen ^zDst644D
+
+Besseres Leben ^HA3uPyvF
+
+Freud Große Entdeckung ^RJc9MTzF
+
+Ablehnung der Theorie ^EglNNs7v
+
+3 Große Kränkungen ^7MlOXH1b
+
+Werde nicht Mittelpunkt
+des Universums ^dNjutrYu
+
+Abstimmung von
+Affen ^oVSUVss9
+
+Kein freier
+Wille ^NzKb1QnP
+
+Grund ^ylhyhScZ
+
+Kindheit ^8wQhZv7E
+
+Zum Großteil
+Stammend Aus ^u4bdIe5u
+
+Psychoanalyse ^wvFqOZqM
+
+Neue Anthropologie des mensch
+
+---
+Note 8 (ID: 800_Ressources/100_Philosophy/Slavoj Zizek - Overview.excalidraw)
+Path: 800_Ressources/100_Philosophy/Slavoj Zizek - Overview.excalidraw.md
+Name: Slavoj Zizek - Overview.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+Parent::[[MOC - Philosophie]]
+
+# Excalidraw Data
+## Text Elements
+Videos zu Slavok Zizek angeschaut. ^RVfBX1vK
+
+https://m.youtube.com/watch?v=uNTyxYQKsvY&pp=ygUXc2xhdm9qIHppemVrIDYwIG1pbnV0ZW4%3D ^z38bs0Pj
+
+Buch: Living in the End times > ^Du5D7G4Z
+
+Kapitalismus heute: Neid, Gier, Konsum ^NwrFWsfL
+
+Früher: Protestantische Arbeitserhik nach Weber ^MibQTVN4
+
+Verhältnisse werden immer schlimmer. ^uoDLcVUS
+
+4 Hauptprobleme: ^JZ91IYBI
+
+- Soziale Spannungen ^DVUlb6R2
+
+- Ökologische Krise ^dM4XoNdr
+
+- Ungleichheiten im Weltwirtschaftssystem ^2R9hhdFJ
+
+- Biogenetische Revolution ^vWTH9eMm
+
+beispiel Kongo: ^QBKi6Ubl
+
+- Regierungen und firmen (aka. Kapitalismus) verursachen die Zustände (Warlords Kindersrbwit), nicht die böse Natur der Menschen im Kongo ^B7zAGnY4
+
+Linke akzeptieren kapitalistische strukturen und lenken sich durch woke Themen von den eigentlichen Problemen ab. ^2vsdx6aA
+
+Demokratie ist eine Fassade des Kapitalismus. Hat keine Kontrolle sondern ist Mächten des Kapitalismus komplett unterworfen. Nur ein Spiegelbild der hegemonialen Ideologie die 
+
+---
+Note 9 (ID: 800_Ressources/100_Philosophy/Theodor Adorno.excalidraw)
+Path: 800_Ressources/100_Philosophy/Theodor Adorno.excalidraw.md
+Name: Theodor Adorno.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Excalidraw Data
+## Text Elements
+Objektive Wahrheit ^QLJ6qmvp
+
+Subjektive Herrschaften ^VWzzn4q5
+
+Zb Unkraut ^hZleSKwG
+
+Manipulation ^Q5CxvHsc
+
+Zb Verteidigungsministerium ^MnduBkNI
+
+Sich Selbst ^gtmAqkms
+
+These ^wWZM6mMb
+
+Antithese ^OM9OZa9k
+
+Permanente Selbstkritik ^UFGIhtrb
+
+Erkennen der Manipulation ^JYYxpTON
+
+Außerhalb ^D1ubU4vA
+
+Mimetik ^42eW3YQp
+
+Aufklärung ist gescheitert ^JuUswr7e
+
+Ausschwitz ^GKH3yrGe
+
+Passivität ^eGAV4YPA
+
+Negativity ^Wye0l6p4
+
+Ich kann die Welt nicht verbessern ^uiIfA5iz
+
+Nicht Unterstützung der 69 Revolution
+durch Adorno ^8nu6QZkA
+
+Karl popper ^gwK3jg9X
+
+Naturwissenschaftliche Erkenntnistheorie ^jrPA67jx
+
+Positivismus Streit ^FFyDI0Mw
+
+Falsifizierbarkeit ^fh4s69tI
+
+Isolierte Untersuchung einzelner Thesen ^83ooQYPw
+
+In Negation gehen ^blk8B6eT
+
+Auch ohne Alternative ^kiR0jRTN
+
+Besser als der Tod ist es allemal ^1MjleJ6P
+
+Nicht Identität mit Gesellschaft ^hWSti1sw
+
+Faschismus ^MZZl8hgM
+
+verhindert ^rlBHO3U7
+
+Kritik = Element konstanter Befreiung ^IEFVdrxj
+
+Positivisimus ^je8lRgjH
+
+Kritische Theorie ^YirRQayX
+
+vs ^UIurz6
+
+---
+Note 10 (ID: 800_Ressources/100_Philosophy/Untitled)
+Path: 800_Ressources/100_Philosophy/Untitled.md
+Name: Untitled.md
+
+Content:
+

@@ -1,0 +1,529 @@
+Please analyze these Obsidian notes and provide for EACH note:
+1. A 1-2 sentence summary
+2. Up to 5 relevant hashtags (from: #book, #AI, #meditation, #spirituality, #philosophy, #productivity, #programming, #health, #finance, #psychology, #relationship, #career, #education, #travel, #creativity, #science, #technology, #business, #writing, #personal)
+3. 5-10 key concepts/keywords
+
+Please respond in this exact JSON format:
+```json
+{
+  "summaries": [
+    {
+      "note_id": "NOTE_ID_HERE",
+      "path": "PATH_HERE",
+      "ai_summary": "Brief summary here",
+      "ai_hashtags": ["#tag1", "#tag2"],
+      "ai_keywords": ["keyword1", "keyword2"]
+    }
+  ]
+}
+```
+
+Here are the notes to analyze:
+
+
+---
+Note 1 (ID: 800_Ressources/103_PKM/BoaP How to Take Smart Notes.excalidraw)
+Path: 800_Ressources/103_PKM/BoaP How to Take Smart Notes.excalidraw.md
+Name: BoaP How to Take Smart Notes.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+Parent::[[Read Books List]]
+
+# Summary
+
+
+# Excalidraw Data
+## Text Elements
+INBOX ^1L9onE62
+
+Keep them short. 
+Be selective. ^gL5CXPZL
+
+Keep together with 
+bibliographic details ^IpCEHhx4
+
+Make literature 
+notes ^DG202IbZ
+
+Reference System ^bvu3xEnC
+
++ ^JNNobRi9
+
+Make permanent 
+notes ^IZNjxUFr
+
+Permanent notes ^y7mIrARp
+
+One idea per note. 
+Full sentences.
+Precise references ^dqrMFHHH
+
+Put them into one 
+place, an INBOX ^HGPKuGkk
+
+Once processed, throw 
+fleeting notes away ^zmTpCqql
+
+Bibliographical reference
+Brief notes on the content ^dlw1kvLK
+
+Literature note ^dkqTipcO
+
+Key idea 1: 21/3d
+Key idea 2: 21/5a11
+Summary note: 21/2 ^nqKk1YIM
+
+Index - Topic A ^lvnKTCUr
+
+Written in full sentences.
+One idea per slip.
+Written in context of existing
+notes in the system. ^1oSy7xut
+
+Permanent note ^0ySsyhpE
+
+21/3d10 ^G1bhHzGm
+
+Written in full sentences.
+One idea per slip.
+Written in context of existing
+notes in 
+
+---
+Note 2 (ID: 800_Ressources/103_PKM/CODE Framework High Level Concept- Handle Divergence and Convergence during Note Taking)
+Path: 800_Ressources/103_PKM/CODE Framework High Level Concept- Handle Divergence and Convergence during Note Taking.md
+Name: CODE Framework High Level Concept- Handle Divergence and Convergence during Note Taking.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+# Excalidraw Data
+## Text Elements
+C  O  D   ^WAt0kxFu
+
+Capture
+Keep what resonates ^zCHllLMF
+
+Organize
+Save for Actionability ^6f5r8IXh
+
+Distill
+Find the Esscence ^t0ufQ2wB
+
+Express
+Show Your Work ^fyir4jdK
+
+[[Divergence]] ^YtEGtYle
+
+[[Convergence]] ^y24g5bxq
+
+E ^P3a71opI
+
+Express ^qe1do9LY
+
+Capture ^9Z7NhwXu
+
+Organize ^JUoIdTaq
+
+Distill ^ZCl09DfH
+
+## Embedded Files
+84846c675fcccc9dc0e8b7a5862445f629437b0c: [[021-brain.svg]]
+
+132690f6affdaf573da23bcdf29ef3a4ea235873: [[129-structure.svg]]
+
+de50004062da97693bddca6c429019bede87132f: [[039-megaphone.svg]]
+
+0b7d5bedff7d917861a543d9b4f0969d053ea5f7: [[distiller.svg]]
+
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQA2bQB2GjoghH0EDihmbgBtcDBQMBLoeHF0R1x9TmJUkshGFnYuNABWJKT+UqbWTgA5TjFuAEYk+LGAFgAGAA5JvkLIQmYA
+
+EXSoBDq0ADMCMO7l7fQATgAZAAUTtoBVE8wk/vxlBBujXABHeI+AQQBJeqlHaEfD4ADKsGC3Aggg8gIEUFIbAA1ggAOokdTcSaHGGIlEICEwKESWEkeEQJF+SQccK5NCLBoQNhwXDYNQwUbTaa46zKEmo
+
+---
+Note 3 (ID: 800_Ressources/103_PKM/MOC - Notetaking and Second Brain.excalidraw)
+Path: 800_Ressources/103_PKM/MOC - Notetaking and Second Brain.excalidraw.md
+Name: MOC - Notetaking and Second Brain.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+[[My PKM System Explained]]
+[[MOC - Obsidian.excalidraw]]
+
+# Excalidraw Data
+## Text Elements
+MOC Notetaking ^PBRt4bcO
+
+Related Books ^q07XNtA0
+
+Concepts ^UrvWOm25
+
+Tools ^g8pv3Y0o
+
+Workflows ^6REINjLs
+
+Criticismn ^VICbMry5
+
+Motivation ^XwYePXhY
+
+## Element Links
+Sm9QZl87: [[My 2021 Comprehensive Obsidian Zettelkasten Workflow]]
+
+TDhinJ4c: [[+ Note Taking Tools Comparison - Which Tool is Right for You and Tipps and Tricks]]
+
+Iss0CCgX: [[+ Obsidian VS Roam Research - Why Chose Obsidian]]
+
+QFflZjFm: [[Second Brain - Critical Questions]]
+
+XVbbxZVj: [[BoaP - Building a Second Brain (Thiago Forte) Part 1.excalidraw#Summary]]
+
+I5JNdG2f: [[Motivation for PKM, Second Brain, Notetaking]]
+
+## Embedded Files
+8c1870e65190b3ce2fa169aaf9479dd3870ce50a: [[MOC - Obsidian.excalidraw]]
+
+d22bc269940eee4b5e9063c553007659ef18edf6: [[081-map-bw.svg]]
+
+106e2ea7233a1cef4907b782fdff95f0e062278a: [[Idea Compass by Vicky Zhao.excalidraw]]
+
+b25e264f138ea50608553fee26ef86a267781f7c: [[Nick Milos NoMa (NOte MAking) Method.excalidraw]]
+
+8674c695d8e570b817bc3f476424716667997b17: [[
+
+---
+Note 4 (ID: 800_Ressources/103_PKM/MOC - Obsidian.excalidraw)
+Path: 800_Ressources/103_PKM/MOC - Obsidian.excalidraw.md
+Name: MOC - Obsidian.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+[[Obsidian - Graph View]]
+
+# Ressources
+## Plugins
+### Kanban + Kanban/Dataview
+- [[Obsidian - How To Create Visual Boards Easily - Kanban Boards Plugin]]
+- [[+ Kanban Made Easy in Obsidian - Kanban Plugin]]
+- [[Obsidian - How To Create Visual Boards Easily - Kanban Boards Plugin]]
+- [[+ Build a Kanban Board with Obsidian and Dataview Plugin]] (Dataview Plugin Kaban)
+- [[My 2021 Comprehensive Obsidian Zettelkasten Workflow]]@03:33:00 (Kanban Plugin Kanban)
+
+# Excalidraw Data
+## Text Elements
+MOC - Obsidian ^SajvPU2c
+
+Styling Conventions ^kWo9bNsf
+
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQA2bQB2GjoghH0EDihmbgBtcDBQMBLoeHF0KCwoVJLIRhZ2LjQAZgBGflKG1k4AOU4xbjaAFgBWAAY2+NH4gE4WzshCZgAR
+
+dKribgAzAjDFiBJuCABlXAAregAFAFUebFrSrcJ8fGPYYKPBDweBKFI2ADWCAA6iR1Nw+IVfv8gW8YB8JF9Dvt/n5JBxwrk0B0oRA2HBcNg1DAhuNxvtrMoEahybjMNxnKNRgl5kl4uNZuMWsMpklIXUICS0M42nztAAOWZtNqjKajdrDHii/bMP6AhAAYTY+DYpCOAGIEFy2u0fhBNISAcpURxi
+
+---
+Note 5 (ID: 800_Ressources/103_PKM/Motivation for PKM, Second Brain, Notetaking)
+Path: 800_Ressources/103_PKM/Motivation for PKM, Second Brain, Notetaking.md
+Name: Motivation for PKM, Second Brain, Notetaking.md
+
+Content:
+- Move from passive consumption to active creation.
+- Extension of ones thinking. Externalize ideas and expand upon them.
+- Making sense of knowledge that really matters to YOUR personal life.
+- Combat Information Overload
+- Being intentional of what we consume instead of being overwhelmed
+- 
+
+---
+Note 6 (ID: 800_Ressources/103_PKM/My PKM System Explained)
+Path: 800_Ressources/103_PKM/My PKM System Explained.md
+Name: My PKM System Explained.md
+
+Content:
+---
+tags: 🧠/🗺️
+aliases: 
+  - Home
+cssclass:
+  - tiny_img
+created: 2022-03-05 1852
+updated: 2022-03-05 1853
+---
+
+# About
+The goal of my PKM is:
+- Fast and sustained learning. For Live.
+- Be more productive and efficient. Through broad knowledge and fast lookup.
+- Maximization of Hapiness. For myself and everyone. Through more clarity and focus on thoughts and projects that are alligned with my values
+
+# Lists
+The Lists in this section are used for Tracking the Status of all open PKM Taks. Tasks can be:
+- Processing of Inputs (e.g. Podcasts, Youtube, Books)
+- Creating and Processing Evergreen Notes
+
+The Status of PKM Tasks is indicated by following Tags:
+- 🟥Start consuming and processing (understand, take notes) of Input
+- 🟧 Finish consuming and processing of Input
+- 🟨 Synthesize Notes
+		- Create Meta Notes (e.g. link Notes to existing Notes find key poitns, ...)
+		- Create Seedlings for Evergreen Forest
+		- Create Anki Cards (optional for remembering)
+- 🟩 Done
+
+Allows to keep an overview over all notes that need Processing. This is curcial, because notes that are not fully processed and turned into permanent notes will be forgotten and cannot be found easily due to incomplete linkin
+
+---
+Note 7 (ID: 800_Ressources/103_PKM/Obsidian - Graph View)
+Path: 800_Ressources/103_PKM/Obsidian - Graph View.md
+Name: Obsidian - Graph View.md
+
+Content:
+# Filter
+- Exclude Filter Examples
+	- -path:006_Templates -path:900_Documents -path:Excalidraw -path:001_Inbox -path:002_Input -path:004_Journal -path:005_Media -path:OneNote
+
+---
+Note 8 (ID: 800_Ressources/103_PKM/PARA System for easy Organization of Notes)
+Path: 800_Ressources/103_PKM/PARA System for easy Organization of Notes.md
+Name: PARA System for easy Organization of Notes.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+# Text Elements
+Clarity for
+Organization ^edVucBVE
+
+PARA System ^nUXNKOOC
+
+Easy ^AyCV6MKA
+
+ Simple ^JC565X4R
+
+ Fast ^o7uH4w4G
+
+VS ^L857HoRW
+
+Organize by Actionability ^4upIUJsA
+
+Knowledge is best applied through execution,
+ which means whatever doesn’t help you make progress
+ on your projects is probably detracting from them. ^xzCGk5SN
+
+Filing System ^xyNx3NkL
+
+Production 
+System ^VF1ZilVB
+
+Organize by Project ^QK1188aN
+
+Organize By Source ^CyxwOloO
+
+VS ^yrKUNh0m
+
+minimize the time we spend 
+filing, labeling, tagging, and
+maintaining our digital notes. ^ZikUpv8P
+
+Clear Rules
+Very Structured
+Fixed ^YrLdQ5u3
+
+No Clear Rules
+Ever changing
+depending on
+current Live Situation ^a0IRVNl0
+
+Brings ^GNAEA5Ye
+
+Brings ^47mymVyY
+
+Motivation ^m4uOW7iI
+
+Idea Graveyard ^PgQk5C1m
+
+Projects ^i82T6i0p
+
+Second Brain ^RfjsjdP3
+
+drive development of
+(Lifeblood of) ^EnxpY4Th
+
+Goal ^zYDRiij2
+
+Easy Retrieval ^FdfmBWsv
+
+is a ^iQ85mhsH
+
+Key Takeaways ^f409l7C4
+
+Project and Goal Driven Note Taking and Life ^aHTEYRvB
+
+X ^z4YMIiSh
+
+In which project will
+this be most useful? ^gfRP
+
+---
+Note 9 (ID: 800_Ressources/103_PKM/Rethinking MY PKM - How I Organize Everything In Obsidian (Zsolt).excalidraw)
+Path: 800_Ressources/103_PKM/Rethinking MY PKM - How I Organize Everything In Obsidian (Zsolt).excalidraw.md
+Name: Rethinking MY PKM - How I Organize Everything In Obsidian (Zsolt).excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Excalidraw Data
+## Text Elements
+If
+you
+want
+to
+learn
+more... ^88MEfpkX
+
+24 ^KXOhZHSM
+
+June ^LoCa8Y5U
+
+2023 ^H9pl1KII
+
+Save permanent notes
+Finalize the BoaP ^IW7ioLfj
+
+1 ^KvvzEhLR
+
+July ^HIkL8k9h
+
+2023 ^IJAWB954
+
+3 ^p05r7vi5
+
+June ^YLuLw0ei
+
+2023 ^2JOO0Y7F
+
+Finish the book ^06jc2SLq
+
+Working with your partner ^q6c4Vq50
+
+Process the first chapter
+- Highlight your clippings
+- Create rough atomic visuals
+- Compile a chapter-1 on a page ^SV2KLKLY
+
+27 ^g0uWrysX
+
+May ^AC23OnC1
+
+2023 ^Al6AgvCc
+
+Start the book ^h25iyqwZ
+
+Read & Highlight
+- The first chapter
+
+Create accountability
+pairs or trios
+- Self-organize on Discord ^OpxqicEW
+
+1 ^nMCVcoiV
+
+2 ^ftreYlnp
+
+10 ^9uCDU3Y8
+
+June ^Qrv6NS23
+
+2023 ^QtzA6w4o
+
+Process
+literature notes ^Av61fpmC
+
+Work on your BoaP ^2FtJsCeO
+
+17 ^6D7fuSvU
+
+June ^HNxsSBZR
+
+2023 ^fXQeFbD4
+
+Cohort 4 ^k3vd3C3a
+
+27 May - 1 July
+2023 ^KKWDlNVd
+
+🌐https://www.visual-thinking-workshop.com/ ^IPGbjAyJ
+
+Links ^Lonc3B21
+
+Tags ^zhXECshU
+
+Ontology ^NZ6gghUM
+
+Folders ^DwWx38Eh
+
+Maps of Content ^UUOuiPLg
+
+Filenames ^iAjOJZR5
+
+Tasks linked to execu
+
+---
+Note 10 (ID: 800_Ressources/103_PKM/Second Brain - Critical Questions)
+Path: 800_Ressources/103_PKM/Second Brain - Critical Questions.md
+Name: Second Brain - Critical Questions.md
+
+Content:
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b6PJRPcqf40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Obsessed with Information.
+- Thinking knowledge is power, but drowning in it.
+- Download whole universe into second brain to deal with the vastness of existance.
+- 

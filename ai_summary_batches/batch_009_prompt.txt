@@ -1,0 +1,72 @@
+Please analyze these Obsidian notes and provide for EACH note:
+1. A 1-2 sentence summary
+2. Up to 5 relevant hashtags (from: #book, #AI, #meditation, #spirituality, #philosophy, #productivity, #programming, #health, #finance, #psychology, #relationship, #career, #education, #travel, #creativity, #science, #technology, #business, #writing, #personal)
+3. 5-10 key concepts/keywords
+
+Please respond in this exact JSON format:
+```json
+{
+  "summaries": [
+    {
+      "note_id": "NOTE_ID_HERE",
+      "path": "PATH_HERE",
+      "ai_summary": "Brief summary here",
+      "ai_hashtags": ["#tag1", "#tag2"],
+      "ai_keywords": ["keyword1", "keyword2"]
+    }
+  ]
+}
+```
+
+Here are the notes to analyze:
+
+
+---
+Note 1 (ID: 800_Ressources/110_Career/Karriereplanung_2025.excalidraw)
+Path: 800_Ressources/110_Career/Karriereplanung_2025.excalidraw.md
+Name: Karriereplanung_2025.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+| **Category**            | **Book**                        | **Core Focus**                       | **Best For**                             | **Rating (/10)** |
+| ----------------------- | ------------------------------- | ------------------------------------ | ---------------------------------------- | ---------------- |
+| Self‑Reflection         | _Find Your Why_ (Simon Sinek)   | Discovering personal or team purpose | Career switchers, teams needing cohesion | ~7.3             |
+|                         | _Designing Your Life_           | Iterative planning + prototypes      | Anyone planning mid‑life change          | ~8               |
+|                         | _Barbara Sher_                  | Feminist, multi‑passion discovery    | Creative individuals/jacks-of-all-trades | ~7               |
+| Discovering Strengths   | _Now Discover Your Strengths_   | Talent-based development             |
+
+---
+Note 2 (ID: 800_Ressources/AI/MOC - AI)
+Path: 800_Ressources/AI/MOC - AI.md
+Name: MOC - AI.md
+
+Content:
+
+# Philosophy and Ethics
+[[We are guided by Algorithms in the way we see and perceive of the world.]]
+
+# Learning
+- Udemy
+	- End-to-End Machine Learning: From Idea to https://www.udemy.com/course-dashboard-redirect/?course_id=4070996
+	- Build, Manage, and Deploy Machine Learning (AI) Projects with Python and MLOps: https://www.udemy.com/course/sustainable-and-scalable-machine-learning-project-development/learn/lecture/26664432?start=0#overview
+	- Complete Data Science Training: Math, Statistics, Python, Advanced Statistics in Python, Machine and Deep Learning: https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/learn/lecture/10799982?start=0#overview
+	- Master the core concepts of Generative AI and advanced techniques in - ChatGPT, Stable Diffusion, Prompt Engineering: https://www.udemy.com/course/the-ultimate-guide-to-generative-ai-gen-ai-for-everyone/learn/lecture/44119184?start=0#overview
+	- Build 8+ Use Cases with Amazon Bedrock, Amazon Q, Agents, Knowledge Bases, Chatbot, LangChain. No AI or Coding exp req: https://www.udemy.com/course/amazon-bedrock-aws-generative-ai-beginner-to-advanced/learn/lecture/40424874?start=0#overview
+	- 25+ Generative
+
+---
+Note 3 (ID: 800_Ressources/AI/We are guided by Algorithms in the way we see and perceive of the world_)
+Path: 800_Ressources/AI/We are guided by Algorithms in the way we see and perceive of the world_.md
+Name: We are guided by Algorithms in the way we see and perceive of the world_.md
+
+Content:
+[[AI - Gefahren]] 
+[[AI]]

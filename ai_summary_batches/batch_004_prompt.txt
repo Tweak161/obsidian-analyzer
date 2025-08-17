@@ -1,0 +1,474 @@
+Please analyze these Obsidian notes and provide for EACH note:
+1. A 1-2 sentence summary
+2. Up to 5 relevant hashtags (from: #book, #AI, #meditation, #spirituality, #philosophy, #productivity, #programming, #health, #finance, #psychology, #relationship, #career, #education, #travel, #creativity, #science, #technology, #business, #writing, #personal)
+3. 5-10 key concepts/keywords
+
+Please respond in this exact JSON format:
+```json
+{
+  "summaries": [
+    {
+      "note_id": "NOTE_ID_HERE",
+      "path": "PATH_HERE",
+      "ai_summary": "Brief summary here",
+      "ai_hashtags": ["#tag1", "#tag2"],
+      "ai_keywords": ["keyword1", "keyword2"]
+    }
+  ]
+}
+```
+
+Here are the notes to analyze:
+
+
+---
+Note 1 (ID: 800_Ressources/104_Buddhism/Meditation Techniques - Comparison.excalidraw)
+Path: 800_Ressources/104_Buddhism/Meditation Techniques - Comparison.excalidraw.md
+Name: Meditation Techniques - Comparison.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFADZFAHYyJE9VGEYwGgQAbQBdcnQoKABlALA+UFkYOIQQXHR8AGtoyXw8bOwNPkZOTExyHRgiACF0VErarkZcAGF6THp8UoBiADN5hZAAXyWgA
+```
+%%
+
+---
+Note 2 (ID: 800_Ressources/104_Buddhism/Meditation Techniques.excalidraw)
+Path: 800_Ressources/104_Buddhism/Meditation Techniques.excalidraw.md
+Name: Meditation Techniques.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+Parent:: [[MOC - Meditation.excalidraw]]
+# Meditation Techniques
+- Child:: [[Noting Meditation.excalidraw]]
+- Child:: [[Vipassana Meditation Technique]]
+- Child:: [[Anapana Meditation Technique.excalidraw]]
+- Child:: [[Kasina Meditation Technique.excalidraw]]
+# Comparison between techniques
+[[Meditation Techniques - Comparison.excalidraw]]
+
+# Journal
+- Dec 2024:
+	- Mix aus Noting und Vipassana funktioniert am besten. 
+		- **Noting:** macht Spass. Hilft sich alle Empfindungen (Vedanas) bewusst zu bleiben und damit weniger abzutriften. Schafft sehr breites Bewusstsein und damit sehr feines Bewusstsein für Körperliche Empfindungen auf ganzem Körper (= perfekte Basis für Vipassana). Dies geht schneller und einfacher als durch konzentrierte Körperscans
+		- **Vipassana**: Nachdem breites Bewusstsein für Körper da ist kann man die Vipassana Flow Technik anwenden um sich besser der körperlichen Empfindungen bew
+
+---
+Note 3 (ID: 800_Ressources/104_Buddhism/The Mind Illuminated (Culadasa John Yates).excalidraw)
+Path: 800_Ressources/104_Buddhism/The Mind Illuminated (Culadasa John Yates).excalidraw.md
+Name: The Mind Illuminated (Culadasa John Yates).excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+![[Die zehn Stufen der Meditation nach _The Mind Illuminated_ und Vergleich mit Vipassana.pdf]]
+
+
+# Excalidraw Data
+## Text Elements
+Theravada Buddhismus
+Vajrayana (Tibetischer) Buddhismus ^WO7IuoBP
+
+Praktiziert ^Fx1dURDa
+
+Culadasa John Yates ^HhDpZdXr
+
+The Mind Illuminated:
+A Complete Meditation Guide
+Using Buddhist Wisdom and Brain Science ^3j3ZfZql
+
+Publiziert ^62iDqxwa
+
+Arbeitete ^YEeiUf8n
+
+Ph.D in Neuroscience
+and Physiology Teacher and  ^7DloBmOY
+
+Kontroversen ^UvLf3voR
+
+Ehebruch mit bis zu 10 Frauen.
+Sex mit Prostituierten ^bDuE2iFj
+
+-> Folgt nicht eigenen Lehren.
+Ist Buch trotzdem hilfreich? ^HMVz2uuv
+
+Vermutlich Ja:
+Inhalt des Buches ist ein gute Zusammenfassung der
+Buddhistischen Traditionen - nicht der Überzeugungen des Autors.
+Erreichen von Konzentration (Samadhi) und Vipassana (Weißheit)
+ist zu moralischem Handeln (Sila) zu einem gewissen Teil trennbar ^D0B10nYz
+
+Praktischer Umgang: ^Rtd8mu
+
+---
+Note 4 (ID: 800_Ressources/104_Buddhism/Vipassana 10 Tages Kurs in Triebel Restored)
+Path: 800_Ressources/104_Buddhism/Vipassana 10 Tages Kurs in Triebel Restored.md
+Name: Vipassana 10 Tages Kurs in Triebel Restored.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Excalidraw Data
+## Text Elements
+Metta ^XGDI4JBA
+
+Meditationstechniken ^AfnB0qgA
+
+Sanskara ^2aOruKv7
+
+Sankhara = Graben ^6QNYNcfl
+
+Unterbewusstsein ^PFLECIP4
+
+Negative Erinnerungen ^rjsoatmi
+
+Hass, Verlangen,
+Wut, Angst, Abneigung ^RO4SfXA4
+
+Samen ^2MMU4pqF
+
+Frucht ^zVrE7PyH
+
+Verdorbener Samen ^iZ2C5jlz
+
+Verdorbene Frucht
+Leid (Dukkha) ^QVe7SaaV
+
+6 Sinneswahrnehmungen (Vinyanas) ^0cjsFMrL
+
+Sehen ^4wuY8Dnv
+
+Hören ^C5LC7wsQ
+
+Riechen ^lk2Jzizl
+
+Tasten/Körperempfindungen ^GgUUiT3n
+
+Schmecken ^ELYIdkM6
+
+Gedanken ^BViGaP3v
+
+Ablehnung oder
+Verlangen ^ON3BQzwV
+
+3 Arten ^5ri7zy6s
+
+Linie auf Wasser ^ZXaF0ZaH
+
+Linie auf Sand ^K3dJfyTj
+
+Linie auf Fels ^Qteqfk1h
+
+You remember 1 or 2
+per Day/Month/Year  ^4Rvky4dQ
+
+Repeated Recalls -> Deeper ^yDT9rZJR
+
+Unterbreche Zyklus hier
+durch Gleichmütige (Equanimous)
+Wahrnehmung ^xHhdOznA
+
+Unterbewusstsein ist spürbar ^oUJockc0
+
+Vipassana
+Meditation ^tFjw1NFL
+
+5 Daseinsfaktoren (Skandhas) ^Vf0EAb4s
+
+Empfindung (Vedana) ^sh7h5ypT
+
+Denken (Sanjna) ^XRLf38pc
+
+Aspekte die
+Persönlichkeit/Ego
+ausmachen ^Rv441jli
+
+Bewusstsein (V
+
+---
+Note 5 (ID: 800_Ressources/104_Buddhism/Vipassana Meditation Technique)
+Path: 800_Ressources/104_Buddhism/Vipassana Meditation Technique.md
+Name: Vipassana Meditation Technique.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+# Excalidraw Data
+## Text Elements
+Vipassana ^HMfetSMm
+
+Gleichmut ^ryDPUuXW
+
+Bewusstsein ^fybk2Xpr
+
+->
+Alles wandet sich ^gGSUU47M
+
+2500 Jahre alt ^Yvls23cP
+
+Erfunden von Buddha ^ZWasn0D5
+
+Erfahrene Realität
+im Körper ^Qbyuja2k
+
+Fühlen vs Intellektualisieren ^5IPf5Pcu
+
+Bewusstsein von Gefühlen im Körper ^UxnN1Tbh
+
+3 Zustände ^17RZug5u
+
+Alles Fein ^rs4Z5B4A
+
+Grob und Fein ^iiI1FMC2
+
+Alles Grob ^jKFRErDj
+
+Körperscan ^7K4h841b
+
+Scan von Kopf zu Fuss ^gVSRwYDZ
+
+Grund ^T9ggWWRa
+
+Alle Empfindungen bewusst werden,
+Grobe Empfindungen überschatten nicht
+feinere Empfindungen ^H8js1CrS
+
+Grobe Empfindungen ^AyX89eAy
+
+Feine Empfindungen ^96icnRqm
+
+Bewusste Wahrnehmung Körperlicher Empfindungen mit Gleichmut ^Zu1gR5YB
+
+Hitze, Kribbeln, Jucken, Schmerzen ^zKrhLvmM
+
+Realität des Moments ^ZgA4lQFz
+
+Objektive, Gleichmütige Beobachtung ^8S9h7RQ0
+
+Freier Fluss ^UBnyt5z5
+
+Freier Fluss
+wo Fein ^sZZoRrZN
+
+Inkrementeller Scan 
+
+---
+Note 6 (ID: 800_Ressources/105_Dating/Models - Mark Manson.excalidraw)
+Path: 800_Ressources/105_Dating/Models - Mark Manson.excalidraw.md
+Name: Models - Mark Manson.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+# Summary
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41wrThwTZtL._SL200_.jpg)
+## Highlights
+- Business guru Dan Kennedy once said, “Your ability to deal with the failure will determine how much you get to deal with success.” ([Location 1685](https://readwise.io/to_kindle?action=open&asin=B005EOTH24&location=1685))
+- In my experience, almost all men who struggle with relationships fall into one of two categories: socially anxious or socially disconnected. ([Location 1940](https://readwise.io/to_kindle?action=open&asin=B005EOTH24&location=1940))
+    - Note: 2 Types of men
+- So when a man compliments a woman out of neediness, it’s going to make a woman feel uncomfortable and objectified. Now if a man compliments a woman out of genuine appreciation for her, she’s going to hear his intention and be genuinely appreciative of him as well. ([Location 3292](https://readwise.io/to_kindle?action=open&asin=B005EOTH24&location=3292))
+- Intention. Teasing is done with a fun and positive intention. Insults are done with a negative intention. 
+
+---
+Note 7 (ID: 800_Ressources/105_Dating/Women are from Venus Men are from Mars.excalidraw)
+Path: 800_Ressources/105_Dating/Women are from Venus Men are from Mars.excalidraw.md
+Name: Women are from Venus Men are from Mars.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+Parent::[[Read Books List]]
+
+# KI Summary
+### **Summary of "Men Are from Mars, Women Are from Venus" by John Gray**
+
+This book explores fundamental psychological and emotional differences between men and women, aiming to improve communication and relationships. Below is a chapter-wise summary, including key takeaways, actionable insights, and visualization suggestions.
+
+---
+
+### **Chapter 1: Men Are from Mars, Women Are from Venus**
+
+#### **Summary**
+
+Men and women are fundamentally different in their communication styles, emotional needs, and ways of dealing with stress. Understanding these differences can help improve relationships and avoid misunderstandings.
+
+#### **Key Takeaways**
+
+- Men and women think, communicate, and behave differently.
+- Accepting these differences instead of resisting them is key to harmonious relationships.
+- Men prefer problem-solving and independence, while women seek empathy and connection.
+
+#### **Actions for Your Life**
+
+- Avoid expecting your partner to think and react the way you do.
+- Embrace gender differences as
+
+---
+Note 8 (ID: 800_Ressources/106_Trading/BoaP - Fooled by Randomness (Nassim Taleb).excalidraw)
+Path: 800_Ressources/106_Trading/BoaP - Fooled by Randomness (Nassim Taleb).excalidraw.md
+Name: BoaP - Fooled by Randomness (Nassim Taleb).excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+Parent::[[Read Books List]]
+Child::[[Fooled by Randomness - Survivorship Bias]]
+Child::[[Fooled by Randomness - The Black Swan Problem]]
+Child::[[Fooled by Randomness - Skewness and Expectation vs Probability]]
+
+[[Read Books List]]
+[[Fooled by Randomness - Survivorship Bias]]
+[[Fooled by Randomness - The Black Swan Problem]]
+[[Fooled by Randomness - Skewness and Expectation vs Probability]]
+# Summary
+![[Fooled by Randomness (Nassim Taleb) - Bookcover.png]]
+- **Survivorship Bias**:
+	- Be aware of this and don't fall for Scams.
+	- Always look at the Data and check if the Conclusions are based on complete data.
+- **Skewness - Expectation vs Probability**: 
+	- Expected Return/Loss = Expected Probability * Expected Payoff/Risk
+		- Consider Probability AND probable Payoff/Risk
+	- Look for big Skews and trade them
+- **Black Swans**
+	- Consider in your Risk Management the Possibility of Black Swans by staying s
+
+---
+Note 9 (ID: 800_Ressources/106_Trading/BoaP - Save Haven (Mark Spitznagel).excalidraw)
+Path: 800_Ressources/106_Trading/BoaP - Save Haven (Mark Spitznagel).excalidraw.md
+Name: BoaP - Save Haven (Mark Spitznagel).excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+# KI Summary
+### Table of Contents
+
+**Cover**  
+**Title Page**  
+**Copyright**  
+**Dedication**
+
+**Foreword**
+
+- SANTA MARINA
+- SPITZ
+- MUTUA MULI
+- COST-EFFECTIVE RISK MITIGATION
+
+### **Part One: What Comes First**
+
+#### **Chapter One: At War with Luck**
+
+- WRITTEN IN BLOOD
+- PROBING BETS
+- WHAT’S A SAFE HAVEN?
+- THE GREAT DILEMMA
+- FIRST PRINCIPLES
+- MODUS TOLLENS
+- DEDUCTIVE DICE
+
+#### **Chapter Two: Nature’s Admonition**
+
+- THE SWISS FAMILY BERNOULLI
+- THE SAINT PETERSBURG PARADOX
+- EMOLUMENTUM MEDIUM
+- THE GEOMETRIC AVERAGE
+- THE OTHER SAINT PETERSBURG PARADOX
+- CONCAVITY OF CURVE
+- THE LOGARITHMIC RHINE FALLS
+
+#### **Chapter Three: The Eternal Return**
+
+- AN EXISTENTIAL IMPERATIVE
+- INTO THE MULTIVERSE
+- DICE WITH SCHRÖDINGER’S DEMON (N = ∞)
+- DICE WITH NIETZSCHE’S DEMON (N = 1)
+- THE HUSTLE OF NON-ERGODICITY
+- MAGIC TRICK OR MATH TRICK?
+- SIDE BETS
+- A GLIMPSE OF TREASURE
+
+### **Part Two: What C
+
+---
+Note 10 (ID: 800_Ressources/106_Trading/BoaP - The Bitcoin Standard.excalidraw)
+Path: 800_Ressources/106_Trading/BoaP - The Bitcoin Standard.excalidraw.md
+Name: BoaP - The Bitcoin Standard.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFADZFAHYyJE9VGEYwGgQAbQBdcnQoKABlALA+UFkYOIQQXHR8AGtoyXw8bOwNPkZOTExyHRgiACF0VErarkZcAGF6THp8UoBiADN5hZAAXyWgA
+```
+%%

@@ -1,0 +1,616 @@
+Please analyze these Obsidian notes and provide for EACH note:
+1. A 1-2 sentence summary
+2. Up to 5 relevant hashtags (from: #book, #AI, #meditation, #spirituality, #philosophy, #productivity, #programming, #health, #finance, #psychology, #relationship, #career, #education, #travel, #creativity, #science, #technology, #business, #writing, #personal)
+3. 5-10 key concepts/keywords
+
+Please respond in this exact JSON format:
+```json
+{
+  "summaries": [
+    {
+      "note_id": "NOTE_ID_HERE",
+      "path": "PATH_HERE",
+      "ai_summary": "Brief summary here",
+      "ai_hashtags": ["#tag1", "#tag2"],
+      "ai_keywords": ["keyword1", "keyword2"]
+    }
+  ]
+}
+```
+
+Here are the notes to analyze:
+
+
+---
+Note 1 (ID: 800_Ressources/106_Trading/BoaP - The Black Swan (Nassim Taleb).excalidraw)
+Path: 800_Ressources/106_Trading/BoaP - The Black Swan (Nassim Taleb).excalidraw.md
+Name: BoaP - The Black Swan (Nassim Taleb).excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+Parent::[[Read Books List]]
+
+# Excalidraw Data
+## Text Elements
+Verteilung Reich Arm
+-> Momentbild vs. Entwicklung über Lebenszeit ^bTNomIYR
+
+beispiel ^8ZPI91Na
+
+Realität ^UK3cNgVm
+
+Dynamisch ^0briHV4D
+
+Statisch ^kUwhJwpO
+
+ist ^UUxTeCu5
+
+Modelle/
+Analysen ^omwToeWu
+
+müssen sein ^YiXUs5Wp
+
+Abbild der ^uRr6Ldgf
+
+Bedeutung - 
+Dynamik von Prozessen ^tGtaCwW5
+
+Statische Betrachtungen sind FALSCH ^FlVbOhBQ
+
+Infinite ^Ek7xjuli
+
+Unknown ^H8BpAnru
+
+Finite ^IkMCTCZe
+
+Known ^iUiYAfff
+
+Turkey Example ^AnxkEsQH
+
+Turkey Example ^eZpygc8f
+
+Known Unknowns ^vKU1Yaz6
+
+Unknown Unknowns ^fGwBVwlK
+
+2 The Implications of Black Swan Blindness ^ufiyNR4S
+
+2) Narrative Fallacy ^c6IpCq4r
+
+1) Error of Confirmation ^H1dWNegu
+
+3) We are not programmed
+for Black Swans ^juMA9ViA
+
+Stories Stick - Statistics do not ^JRcZn31A
+
+Linear ^xAf5XGmn
+
+Exponential ^GxgC73qx
+
+Human Imagination ^YMISvENw
+
+4) Distortion of silent Evidence ^aHsWdRvd
+
+is ^LQiAKxhZ
+
+5) Tunneling ^X4ffGeXt
+
+3 Mediocristan vs Extremistan ^phjHbjAP
+
+Most Human made Things ^BUbilsa6
+
+Safe to predict ^wVyDWylb
+
+Much mor
+
+---
+Note 2 (ID: 800_Ressources/106_Trading/Fooled by Randomness - Pascal's Wager - Take a Chance if there is a high Payoff and a small Risk)
+Path: 800_Ressources/106_Trading/Fooled by Randomness - Pascal's Wager - Take a Chance if there is a high Payoff and a small Risk.md
+Name: Fooled by Randomness - Pascal's Wager - Take a Chance if there is a high Payoff and a small Risk.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+# Excalidraw Data
+## Text Elements
+Pascal's Wager ^b8NwJYYZ
+
+Use Historically profitable Strategies.
+BUT: Don't manage your Risk based on the historical Data.
+Be much more conservative. ^1NOJMCxZ
+
+
+## Embedded Files
+25b21c6ec7fa3f8895fb619e1a5ed39e75648e67: [[Pascal's Wager Image.png]]
+
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQA2bQB2GjoghH0EDihmbgBtcDBQMBKIEm4IAFkAYQARABYAZgB5SmwAaUwYAH1agGs2ACFmSQBBAE1UkshYRArA7CiOZWCp
+
+0sxuZx4ATgAGbV36gFZG+J5d3cbGo6T+UphuI8PtAEZtxp4ADk+kl8akpJfeJ3SAUEjqbjbQHaL6fHgvHa7JLxd6NEFSBCEZTSbjxeJHbT1F5w+IveJJerHNGFSDWFbiVC7dHMKCkNh9BDVNj4NikCoAYheCCFQrWkE0uGwfWUbKEHGIXJ5fIkrOszDguEC2TFEAAZoR8PgAMqwVYSQQeHUstkcgDq4Mk3D4NIg1vZCBNMDN6At5XRsuxHHCuTQL
+
+3RbA12DUD1DF3RMuEcAAksQQ6gCtNIJijAA5BD0AAaL3wACU2AhbZVKvUADI5yRGPoQGkAXXRuvImRT
+
+---
+Note 3 (ID: 800_Ressources/106_Trading/Fooled by Randomness - Skewness and Expectation vs Probability)
+Path: 800_Ressources/106_Trading/Fooled by Randomness - Skewness and Expectation vs Probability.md
+Name: Fooled by Randomness - Skewness and Expectation vs Probability.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+# Excalidraw Data
+## Text Elements
+Skewness ^WJRyC8jQ
+
+Expectation = Chance/Risk = Probability * Payoff/Loss ^bMAvXRQe
+
+Probability ^SGJIpx69
+
+Payoff/Loss ^N4Q0XBSx
+
+Expectation ^P9y8Xp2Z
+
++11% ^nFXFrFdv
+
+90% Chance of Losing 10% ^vT2X6tv0
+
+10% Chance of Gaining 200% ^xOFSlqhn
+
++-0% ^l7VMvlDc
+
+Takeaway: Consider Expectation AND Chance/Risk ^UqAhjAIW
+
+
+## Embedded Files
+d073329edd7c5e7edcd385dddda463600f13a75a: [[005_Media/Fooled by Randomness - Skewness and Probability vs Expectation.md]]
+
+3088068115df72c2268f709f645de713a3cea526: [[005_Media/Icons/_Favorites/blood-drop-bleed.svg]]
+
+43bf20a2b1f18d60337c7c7d993f54d639ac9911: [[005_Media/IconsColor/4021411-essentials/svg/034-thumb up.svg]]
+
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQA2bQB2GjoghH0EDihmbgBtc
+
+---
+Note 4 (ID: 800_Ressources/106_Trading/Fooled by Randomness - Survivorship Bias)
+Path: 800_Ressources/106_Trading/Fooled by Randomness - Survivorship Bias.md
+Name: Fooled by Randomness - Survivorship Bias.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+# Excalidraw Data
+## Text Elements
+Survivorship Bias ^j9awEY4e
+
+Incorrect Conclusion ^5MNV1oOz
+
+Incomplete Data ^fzmUGHx8
+
+dont live
+to tell the tale ^RGMmUwpW
+
+Doesn't get
+pubslished ^OqTTkzuX
+
+due to ^7SyCNFrC
+
+Survivorship Bias: ^s9fo4msN
+
+## Embedded Files
+35f3849006bc4b18a3097bc20bf45c6c988dc5bc: [[Fooled by Randomness - Survivorship Bias - Russion Roulette Example.png]]
+
+0703fb07902748375b9de5ace922f2ad8c551b8c: [[Fooled by Randomness - Survivorship Bias - Monkey Darts Stocks Example.png]]
+
+df46c5ede61adb8132aff73e8fd67d368f799035: [[gravestone-coffin-funeral-death-memento-mori.svg]]
+
+48150eae6d0dc97cb7988efa3d729ccbb62f8605: [[bell-curve-normal-distribution-gauss-curve.svg]]
+
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQA2bQB2GjoghH0EDihmbgBtcDBQMBK
+
+---
+Note 5 (ID: 800_Ressources/106_Trading/Fooled by Randomness - The Black Swan Problem)
+Path: 800_Ressources/106_Trading/Fooled by Randomness - The Black Swan Problem.md
+Name: Fooled by Randomness - The Black Swan Problem.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+# Excalidraw Data
+## Text Elements
+Black Swan Problem ^huT3oQo0
+
+Be prepared for Black Swan Events.
+Consider them in Risk Management by staying small. ^hTXexSLu
+
+## Embedded Files
+c798aef4ebcf4a74f838cee88ac2d107f0a1ad5a: [[Pasted Image 20241207095057_738.png]]
+
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQA2bQB2GjoghH0EDihmbgBtcDBQMBKIEm4y0gARAFEAaTqAK3oAeQANFpgABgBOKAAWAFUARjgAZgAFVJLIWEQKwOwojmVg
+
+6dLMbmGk/rixgA4unjGAVh6efv2Lk/5SmG5nHi6u7W3es/6erv6xntvICgkdTcHpJOI8fZXYY8L5JeI9MZjf5SBCEZTSbjxeInbT9YZXeLDeI7fonJGFSDWVbiVBdZHMKCkNgAawQAGE2Pg2KQKgBiYYIAUC9aQTS4bDM5RMoQcYgcrk8iSM6zMOC4QLZEUQABmhHw+AAyrA1hJBB4tQymayAOpAyTcPgUiCWlkII0wE3oM3lZHS9EccK5NDDZFs
+
+NXYNT3YPPZFS4RwACSxCDqDyAF1kdryJkk9wOEJ9cjCLKsBVcGMtdLZQHmCnijNoPAaWMKQBfekIBDELbHMZJREIulOxgsdhcNCXP7Dp
+
+---
+Note 6 (ID: 800_Ressources/107_Self_Improvement/7 Habits for Highly Effective People - Stimulus Response Freedom Quote)
+Path: 800_Ressources/107_Self_Improvement/7 Habits for Highly Effective People - Stimulus Response Freedom Quote.md
+Name: 7 Habits for Highly Effective People - Stimulus Response Freedom Quote.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+# Excalidraw Data
+## Text Elements
+Between stimulus and response
+man has the freedom to choose. ^DdSUULbr
+
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQA2bQB2GjoghH0EDihmbgBtcDBQMBLoeHF0KCwoVJLIRhZ2LjQAVhaABn5ShtZOADlOMW4k+PiRniSkgEYuyEJmABF0quJu
+
+ADMCMNmIEm4IBeIAZQBVY4AZTVJa0rXCfHxD2GC9wQ9rgShSNgBrBAB1Ejqbh8QofL6/R4wZ4SV67bZfPySDjhXJoGagiBsOC4bBqGDcKbtToY6zKaGoYl1CCYbjOHgTFraADMAA4WVMWQBOCbtFrspnbfFoZxTMZTbQAFh4fIlTIl8p4bO2zE+PwQAGE2Pg2FcJABiHhrTkIeXvCCaHHfZQIjjETXa3WVcgcZjYwLZM0UQGSbhMjnaFqczlJP3y
+
+lp+6XbSQIQjKaTcDrKhAIVatSZMzkSqYtEFU63COAASWIqNQeQAuts1uRMsXuBwhPd4cJbcjmKWG02MZoW8QAKLBTLZUsV7ZCODEXArAkhpljJI5tqE7ZEDjfeuN/ArtjYX6p1AbfBbDFrThQQ6EIwVHiUm5ngBiuH0dyFqHRVKqmBqEgAQggoBQyYcKgKqEPojZCMwqDWMQqCBK6nBhAAOhw+jWKgkihKg6gIAegQpgY2FsKg2CSGwbBhNoZrkB
+
+QAAq1R7H+AFASBUBgRBUEwXB4RwIhCAoWhwGYVBOF4cmxCEVAxGkeRlFmp+UAAIJEMozToMEaw1NsDRse4ymxmp0BYmaejZLghDIqQdZoJ2W4YjqsYWQQ9Ffox/6AVkrHsb4nG2txCEuvxqHocJ2HRmJ
+
+---
+Note 7 (ID: 800_Ressources/107_Self_Improvement/7 Habits of Highly Effective People - Habit 1 - Be Proactive)
+Path: 800_Ressources/107_Self_Improvement/7 Habits of Highly Effective People - Habit 1 - Be Proactive.md
+Name: 7 Habits of Highly Effective People - Habit 1 - Be Proactive.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+Parent::[[BoaP - 7 Habits of Highly Effective People Overview.excalidraw]]
+# Excalidraw Data
+## Text Elements
+Taking Initiative ^eZVuL5n4
+
+Language ^yaf7Seeo
+
+Proactive - 30 day test ^0ghplgE3
+
+I know of no more encouraging fact than the unquestionable ability of man to elevate his life by conscious endeavor. HENRY DAVID THOREAU ^nGcBJey9
+
+As you read this book, try to stand apart from yourself. Try to project your consciousness upward into a corner of the room and see yourself, in your mind’s eye, reading. Can you look at yourself almost as though you were someone else? ^k0oUlTmq
+
+We are not our feelings.
+We are not our moods.
+We are not even our thoughts. ^7M9h2uPN
+
+Self Awareness ^93vyXZvQ
+
+Objective World View ^1lggJF1l
+
+Empathy ^SOR5TSlX
+
+Defy Cultural
+Conditioning ^BmP4Byo9
+
+Genetic ^DfLXeIvK
+
+Psychic ^sOx1kVDC
+
+Environmental ^CMz3DIOb
+
+Determinism ^2Pht89kg
+
+Based on ^A4coVEtA
+
+Stimulus/Response Theory ^v9LDe9ja
+
+Pavlov’s Dog ^nTBl42jS
+
+Humans are capable to choose
+their response to any stimulus ^ASSWhFyt
+
+Victor Frankl ^eASGMrHs
+
+See ^fXtXSQ7
+
+---
+Note 8 (ID: 800_Ressources/107_Self_Improvement/7 Habits of Highly Effective People - Habit 2 - Beginn with the End in Mind_)
+Path: 800_Ressources/107_Self_Improvement/7 Habits of Highly Effective People - Habit 2 - Beginn with the End in Mind_.md
+Name: 7 Habits of Highly Effective People - Habit 2 - Beginn with the End in Mind_.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+# Summary
+
+# Notes
+## Funeral Exercise
+
+
+# Excalidraw Data
+## Text Elements
+Mission Statement ^l7CqsPtd
+
+Everyday Habits
++
+Time Allocation ^ErEZJpPb
+
+reveals ^TXdIJFZP
+
+derrive ^FK4RQmM8
+
+Guidance ^ccjrwGcw
+
+provide ^4GEMjQIM
+
+Ladder
+leaning against wrong Wall ^92eFDn5p
+
+Every Step gets us
+to the wrong Place faster ^UC3SxPua
+
+Everything is Created Twice ^DHQNF3qN
+
+Mental 
+Creation ^9pTV8QUw
+
+Physical
+Creation ^JY13j2k6
+
+Accept Responsibility 
+for Both Creations ^SDw90rrq
+
+Extends Circle of Influence ^Mx01qQfs
+
+By Design ^6cIyRF6D
+
+We design our life through the Power of:
+Self Awareness
+Imagination
+Conscience
+Free Will ^tVUGrEMM
+
+We let our Life be designed by
+Environment, People and
+past Habits ^9bMfSzb1
+
+Habit 1 says, "You are the creator." Habit 2 is the first creation (what?). Habit 3 is the second creatio (How?) ^1FnzcoGB
+
+Management ^0jLJRqIR
+
+Leadership ^75I7nKZ0
+
+What do I want
+to accomplish ? ^4epGUhnQ
+
+How can I best
+accomplish this? ^nHVwZ94f
+
+Where is the ladder leaning? ^P5f1CHcv
+
+Who do I climb
+the ladder efficiently? ^KJ0IPWZW
+
+We often
+
+---
+Note 9 (ID: 800_Ressources/107_Self_Improvement/7 Habits of Highly Effective People - Habit 3 - Put First Things First)
+Path: 800_Ressources/107_Self_Improvement/7 Habits of Highly Effective People - Habit 3 - Put First Things First.md
+Name: 7 Habits of Highly Effective People - Habit 3 - Put First Things First.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Excalidraw Data
+## Text Elements
+You are a disciple, a follower, of your own deep values and their source.
+And you have the will, the integrity, to subordinate your feelings,
+your impulses, your moods to those values. ^FUyMA7ay
+
+Time Management ^Y0R0DomO
+
+Organize ^VT1XKW9f
+
+Execute ^NbbgaTPQ
+
+Priorities ^xhGRqOIR
+
+Organize and Execute aroudn Priorities ^aNrsewMq
+
+core ^XludpGXO
+
+Efficiency Focus ^38yfy64E
+
+often clashes with ^PpPo0Bdd
+
+Don't Manage Time.
+Mange Yourself ^ioX71reN
+
+Four Waves of Time Management ^6HW7Lpne
+
+1 Notes + Checklists ^IShrJKKv
+
+2. Calendars + Appointment Books ^rm993qRS
+
+3. Priorization + Values Clarification ^5c6Y5Mh1
+
+4. Self Management ^MWe5DYQW
+
+Develop Rich 
+human Relationships ^j8LrRNd3
+
+Urgent Topics (Leaves, Q1, Q3) ^4JAqpVKC
+
+Important Topics (Roots, Q2) ^QGBB1B39
+
+vs ^vwoRkONk
+
+Attention Grabbing ^NPxGmMxp
+
+Less visible ^CIS5uPvd
+
+Often Fun ^DFBtwFEh
+
+Require Proactivity ^eU8vn2ef
+
+Require Reqctivity ^IXrXpcdA
+
+Often Hard ^Wvgl3Krn
+
+Habit 2 - Mission Statement ^TPQjSwKG
+
+What one thing could you do in your person
+
+---
+Note 10 (ID: 800_Ressources/107_Self_Improvement/7 Habits of Highly Effective People - Habit 4 - Think WinWin)
+Path: 800_Ressources/107_Self_Improvement/7 Habits of Highly Effective People - Habit 4 - Think WinWin.md
+Name: 7 Habits of Highly Effective People - Habit 4 - Think WinWin.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Excalidraw Data
+## Text Elements
+6 Paradigms of Interaction ^fcBNlqYM
+
+Win/Win ^3zfbQYXV
+
+Win/Lose ^CxzhNzkL
+
+Lose/Lose ^WAvNFRBV
+
+No Deal ^BAypowRP
+
+Lose/Win ^1RciLOHM
+
+Win ^mWJxRAR6
+
+Life = Cooperation ^h0gVsxow
+
+Your/My Way vs.
+Higher Way ^rB0YNjHn
+
+Conditional Love ^dPAQnBek
+
+Comparison with others ^7hmy2nVt
+
+Not intrinsically valuable
+or lovable ^HD2pOM57
+
+People are defined
+Extrinsically ^iWXgYczq
+
+Education: Forces Competition
+vs Cooperation ^p7LxmmqY
+
+Life is zero sum 
+(Like Sports/Games) ^nO3M0DmI
+
+Being a nice Guy ^gFWLn29n
+
+Being Agreeable ^R8Ey7Nnt
+
+Giving up ^0TtTZ7ej
+
+Being submissive ^7pAZWb2K
+
+Suppression of feelings ^sKUAhBFJ
+
+Outcome when 2 Win/Lose
+People meet ^92sSIGfG
+
+Competition with
+oneself ^XLvjmmM9
+
+Only Options in
+Interdependent Relationships ^nVi8RFuQ
+
+3 Win/Win Character Traits ^ZeOkQpSW
+
+Integrity ^tcNrMehe
+
+Values Determine what a win is ^0DqKuM1l
+
+Maturity ^PT5r1n7Y
+
+Balance between Courage
+and Consideration ^i8osi98Q
+
+Allows deep Commitments
+and meaningful Promises ^Kmtpjmnj
+
+Abundance Mentality ^SyhPhUQk
+
+There is

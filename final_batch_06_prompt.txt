@@ -1,0 +1,143 @@
+Please analyze these Obsidian notes and provide for EACH note:
+1. A 1-2 sentence summary
+2. Up to 5 relevant hashtags (from: #book, #AI, #meditation, #spirituality, #philosophy, #productivity, #programming, #health, #finance, #psychology, #relationship, #career, #education, #travel, #creativity, #science, #technology, #business, #writing, #personal)
+3. 5-10 key concepts/keywords
+
+Please respond in this exact JSON format:
+```json
+{
+  "summaries": [
+    {
+      "note_id": "NOTE_ID_HERE",
+      "path": "PATH_HERE",
+      "ai_summary": "Brief summary here",
+      "ai_hashtags": ["#tag1", "#tag2"],
+      "ai_keywords": ["keyword1", "keyword2"]
+    }
+  ]
+}
+```
+
+Here are the notes to analyze:
+
+
+---
+Note 1 (ID: 800_Ressources/110_Career/Finde dein Passion - Knowing when to Quit.excalidraw)
+Path: 800_Ressources/110_Career/Finde dein Passion - Knowing when to Quit.excalidraw.md
+Name: Finde dein Passion - Knowing when to Quit.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Excalidraw Data
+## Text Elements
+Grind ^A2cRi1nJ
+
+Flow/Fun ^wRiTaAHc
+
+Knowing when to Quit ^I16fO0zJ
+
+Quit ^XXh4aRFN
+
+Grind ^G5Z23voJ
+
+Flow/Fun ^ICXDmi75
+
+Stick with it ^iLMyuVVe
+
+Passing of Time ^zADNqiUn
+
+## Embedded Files
+df6cfc78dd5ac0a11259c811597879fb8a4c95f4: [[005_Media/IconsColor/1617107-essentials/svg/055-exit.svg]]
+
+9c46623e96d7e2daf0aff02010c1e0923f7e1b76: [[005_Media/Icons/_Favorites/hourglass.svg]]
+
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQA2bQB2GjoghH0EDihmbgBtcDBQMBKIEm4GADk2AGsAGUwOJPoARQBROABJAGVCACkKGCEADihUkshYRArA7CiOZWDx0sxu
+
+ZwBGHkSABiThzYBWflKYbh4k7XWAFiuDgGZD48gKEnVuYe3LnnXtgE47pJHQqQSQIQjKaTcO5AiYQayLcSobZPCDMKCkWoIADCbHwbFIFQAxOsECSSctIJpcNgasoMUIOMQcXiCRJ0dZmHBcIFshSIAAzQj4fDdWBLCSCDx8tEYmoIADqr0kZxRMsxopg4vQkvKKPpEI44VyaHWKLYXOwalOJu2yOBEDpwi6xGNqDyAF0UfzyJlOsRuBwhMK9cJG
+
+YbmK7irCpoi7sCAL6qhAIf1oJLbA6/f6ApIoxgsdhcNBXO7xPNMVicaocMTcda/DNJaHreIw0qEZgAEXSUBT3H5BDCKM0oeIbWCmWyroKEyKwNKMYqvcwYye7dT6AAgjxsAAlQjrDh9CDz+PAz32oRwYi4Xsb9ZN0tJLNJb7DPj2ogcGoBoP4FF4jSfZoAO+BDvahCMlgFS4NsJ4lImhRRpA5QSNue4HkefKLmyWCrvaqxoBsPzaO+gLxPEdzDAc
+
+Wy/A+KLWqgdxxNctwPDwbbPEq3BXL8CT1r8SStjwGZUXcdwoqC4KQmgHEovCWp2rCapysy+JEmSpJIMO1K0vSjJqay6DshwnLclk+GwoKwoalqqK4rq9oqQq3Gyaq6LqmKiL2VKIZ+J
+
+---
+Note 2 (ID: 800_Ressources/110_Career/Finde dein Passion - Knowing when to Quit)
+Path: 800_Ressources/110_Career/Finde dein Passion - Knowing when to Quit.md
+Name: Finde dein Passion - Knowing when to Quit.md
+
+Content:
+Bei der [[Karriereplanung]] solltest du nur die Dinge berücksichtigen die du stunden lange am Stück machen kannst ohne dass langweilig wird oder es sich wie ein Kampf anfühlt.
+Anstrengung ist zwar Teil von jeder Aufgabe. Allerdings sollte dies nur ein kleinerer Teil der Gesamtaufgabe sein.
+Vielleicht 30% Grind, 70% Flow/Spass.
+Du solltest in der Lage sein die Aufgabe mindestens 40 Stunden die Woche durchzuführen.
+Am Anfang, wenn man etwas aufbaut oder mit etwas startet ist es eventuell normal, dass mehr Grind erforderlich ist, so dass das Verhältnis eher 70% Grind ist und 30% Flow.
+Es sollte einem aber mit der Zeit leichter fallen.
+Wenn es nach mehreren Monaten nicht immer etwas leichter fällt, sondern eher schwerer ist es Zeit aufzugeben
+
+Inspiration: Marc Manson Podcast - How to Get Out of a Rut, Pain and Boredom and Knowing when to Quit -> Mark gibt sein Musikstudium, als er merkt, dass es ihm mit der Zeit nicht leichter fällt und er zunehmend leidet und zurückfällt.
+
+
+![[Finde dein Passion - Knowing when to Quit.excalidraw]]
+
+---
+Note 3 (ID: 800_Ressources/110_Career/Karriereplanung_2025.excalidraw)
+Path: 800_Ressources/110_Career/Karriereplanung_2025.excalidraw.md
+Name: Karriereplanung_2025.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+| **Category**            | **Book**                        | **Core Focus**                       | **Best For**                             | **Rating (/10)** |
+| ----------------------- | ------------------------------- | ------------------------------------ | ---------------------------------------- | ---------------- |
+| Self‑Reflection         | _Find Your Why_ (Simon Sinek)   | Discovering personal or team purpose | Career switchers, teams needing cohesion | ~7.3             |
+|                         | _Designing Your Life_           | Iterative planning + prototypes      | Anyone planning mid‑life change          | ~8               |
+|                         | _Barbara Sher_                  | Feminist, multi‑passion discovery    | Creative individuals/jacks-of-all-trades | ~7               |
+| Discovering Strengths   | _Now Discover Your Strengths_   | Talent-based development             | Teams or individuals seeking uniqueness  | ~9               |
+|                         | _So Good They Can’t Ignore You_ | Skill mastery over passion           | Anyone building career capital           | ~8               |
+| Career Purpose          | _Purpose Economy_               | Mission-driv
+
+---
+Note 4 (ID: 800_Ressources/AI/MOC - AI)
+Path: 800_Ressources/AI/MOC - AI.md
+Name: MOC - AI.md
+
+Content:
+
+# Philosophy and Ethics
+[[We are guided by Algorithms in the way we see and perceive of the world.]]
+
+# Learning
+- Udemy
+	- End-to-End Machine Learning: From Idea to https://www.udemy.com/course-dashboard-redirect/?course_id=4070996
+	- Build, Manage, and Deploy Machine Learning (AI) Projects with Python and MLOps: https://www.udemy.com/course/sustainable-and-scalable-machine-learning-project-development/learn/lecture/26664432?start=0#overview
+	- Complete Data Science Training: Math, Statistics, Python, Advanced Statistics in Python, Machine and Deep Learning: https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/learn/lecture/10799982?start=0#overview
+	- Master the core concepts of Generative AI and advanced techniques in - ChatGPT, Stable Diffusion, Prompt Engineering: https://www.udemy.com/course/the-ultimate-guide-to-generative-ai-gen-ai-for-everyone/learn/lecture/44119184?start=0#overview
+	- Build 8+ Use Cases with Amazon Bedrock, Amazon Q, Agents, Knowledge Bases, Chatbot, LangChain. No AI or Coding exp req: https://www.udemy.com/course/amazon-bedrock-aws-generative-ai-beginner-to-advanced/learn/lecture/40424874?start=0#overview
+	- 25+ Generative AI Tools to 10x Business, Productivity, Creativity | Prompt Engineering, ChatGPT, Custom GPTs, Midjourney: https://www.udemy.com/course/complete-ai-guide/learn/lecture/36484970?start=0#overview
+	- 10x your productivity via ChatGPT &amp; OpenAI APIs efficiently. Learn Midjourney, prompt engineering,
+
+---
+Note 5 (ID: 800_Ressources/AI/We are guided by Algorithms in the way we see and perceive of the world_)
+Path: 800_Ressources/AI/We are guided by Algorithms in the way we see and perceive of the world_.md
+Name: We are guided by Algorithms in the way we see and perceive of the world_.md
+
+Content:
+[[AI - Gefahren]] 
+[[AI]]

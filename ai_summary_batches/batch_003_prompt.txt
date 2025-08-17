@@ -1,0 +1,611 @@
+Please analyze these Obsidian notes and provide for EACH note:
+1. A 1-2 sentence summary
+2. Up to 5 relevant hashtags (from: #book, #AI, #meditation, #spirituality, #philosophy, #productivity, #programming, #health, #finance, #psychology, #relationship, #career, #education, #travel, #creativity, #science, #technology, #business, #writing, #personal)
+3. 5-10 key concepts/keywords
+
+Please respond in this exact JSON format:
+```json
+{
+  "summaries": [
+    {
+      "note_id": "NOTE_ID_HERE",
+      "path": "PATH_HERE",
+      "ai_summary": "Brief summary here",
+      "ai_hashtags": ["#tag1", "#tag2"],
+      "ai_keywords": ["keyword1", "keyword2"]
+    }
+  ]
+}
+```
+
+Here are the notes to analyze:
+
+
+---
+Note 1 (ID: 800_Ressources/103_PKM/Second Brain, PKMS - LATCH System - How to find Notes)
+Path: 800_Ressources/103_PKM/Second Brain, PKMS - LATCH System - How to find Notes.md
+Name: Second Brain, PKMS - LATCH System - How to find Notes.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+# Excalidraw Data
+## Text Elements
+## Embedded Files
+c8609addb84a1633dda5fdb6438b2fb1b7207a59: [[Pasted Image 20241130220355_582.svg]]
+
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQA2bQB2GjoghH0EDihmbgBtcDBQMBLoeHF0Qn1opH5SxhZ2LjQARgAOdrrIBtZOADlOMW4WpIBmHlGABmm20a6IQmYAEXSo
+
+BGJuADMCMPmSbillHgBZCjYAMWUALXxSAFV8AEFcACkAawBRADVQ1JLITaEfD4ADKsGCB0kuGwGkCf1KzCgpDYbwQAHUSOphvNEcjUWCYBCJIIPPDIMi/JIOOFcq15mw4NC1DBhtN5tZlETUJN5phuM5RgBWACcwu0gqSgpGbR4IySkzmhUgLNabXF8XiABZJoLNR1hZN4kkkjikSiEABhNj4NikA4AYmmTsmZIgmmhb2UFI4xCtNrtEiR1mYjMC
+
+2VdFExkm4mpamu0PEmwpFSXio3iLSTLXmkgQhGU0hjU20ccmY3i0yNPDaJqVEDC6248WFbRrScFfDrXuEcAAksRaag8gBdeabciZfvcDhCYHzb3EanMQczud1zTCH0fYKZbKDkfzIRwYi4NYbVpjdNJGtptqawXzIgcN7T2f4R9sbCo8+obb4XZ1oip5CIO9a4IwGxjkCCBThI2BtBWwq4MQxCaHeuAtGmowobggqbKhWqjG0mg8JsmgtJoSSJkk
+
+uHCq6zDuBUBT/GA2ZKqxSqjnWhA+lgBy4C68zYMicCvsChQAL7gFxkC4HAcBgqeFTFJA6gZBUEBEAWUDwgwhAIBQABCHrdkIPp+raDrnNZNm6dgIhhlAvZrPoYJ
+
+---
+Note 2 (ID: 800_Ressources/103_PKM/Second Brain, PKMS - Principles)
+Path: 800_Ressources/103_PKM/Second Brain, PKMS - Principles.md
+Name: Second Brain, PKMS - Principles.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+# Excalidraw Data
+## Text Elements
+- Keep it simple: Each component has a clear purpose.
+- Minimize friction: Automate to avoid clicking & typing.
+- Brown-field reality: Accept what can't be changed
+  easy: Archive-TheBrain, YouTube under Hobbies, etc.
+- Avoid moving files around: Store notes where they
+  were first created. Consequently some reference
+  material might end up in a Project Folder, not the
+  Input Folder and some attachments under Daily Notes.
+- Apply LATCH: Maximize findability by building many paths
+  to the same information. 
+- ALWAYS link: create new items as a link, not just a file
+  in a folder. ^QnFJnlDK
+
+Keep it simple
+Minimize friction
+Brown-field reality
+
+Avoid moving files around
+
+
+
+Apply LATCH
+
+ALWAYS link: ^tPUfiA8H
+
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQA2bQB2GjoghH0EDihmbgBtcDBQMBLoeHF0QOwojmVg1JLIRhZ2LjR4ngAGflLm1k4AOU4xbgBGHlGADgBWAGYAFkn56Z7I
+
+QmYAEXSoBGJuADMCMNWI
+
+---
+Note 3 (ID: 800_Ressources/103_PKM/Shape your Digital and Physical Environments - They shape your Thinking and therefore your Life (Cathedral Effect))
+Path: 800_Ressources/103_PKM/Shape your Digital and Physical Environments - They shape your Thinking and therefore your Life (Cathedral Effect).md
+Name: Shape your Digital and Physical Environments - They shape your Thinking and therefore your Life (Cathedral Effect).md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+# Text Elements
+Environment ^mQY6uGZP
+
+  Physical ^yIYx4LWG
+
+Digital
+(Second Brain) ^w08SMhsP
+
+Thinking and Life ^bffhgAhK
+
+ Shape Environment to shape your Life!!! ^x0oREobc
+
+ garden of knowledge ^m3nyggol
+
+Take care!!
+Clean, Seed, Water, Plant ^pIrYXYfN
+
+shapes ^8OuY78UH
+
+Cathedral Effect ^Cj89gQxo
+
+
+# Embedded files
+412ea06e69339ae73fae9e8ee049cec9c2b1fd42: [[001-church.svg]]
+82834be45fab6dd054f8d86c3424b646b1069b3e: [[005-gardening.svg]]
+
+%%
+# Drawing
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.23",
+	"elements": [
+		{
+			"type": "rectangle",
+			"version": 1622,
+			"versionNonce": 845536260,
+			"isDeleted": false,
+			"id": "--9GwaTzKwUhuaYd5aVaM",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -1361.1316702311033,
+			"y": -2855.029279944213,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 162,
+			"height": 85,
+			"seed": 1898385062,
+			"groupIds
+
+---
+Note 4 (ID: 800_Ressources/103_PKM/The Power of IPs (Intermediate Packets) - Building Blocks to Boost your Productivity)
+Path: 800_Ressources/103_PKM/The Power of IPs (Intermediate Packets) - Building Blocks to Boost your Productivity.md
+Name: The Power of IPs (Intermediate Packets) - Building Blocks to Boost your Productivity.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+# Excalidraw Data
+## Text Elements
+Creating IPs
+ (Intermediate Packet) ^ie11kynX
+
+Productivity Surge ^HFEOU3HI
+
+ Outsource Creation ^hTuBNR2a
+
+Create IPs for all 
+useful knowledge ^hhZ3Z1Fk
+
+Turn all work 
+artifacts into IPs ^KVm1XyjA
+
+Growing Neurons ^ALYQRWEh
+
+Similar to ^5jrwfzrr
+
+Higher Levels of Consciousness ^dKDwVNuE
+
+Leads to ^hqrOSnoO
+
+“We only know what we make.” ^ecUBBZw6
+
+Ideas are merely thoughts 
+until you put them into action. ^L7SoJNEn
+
+Leads to ^0HqBcqsM
+
+Put into Action ^2rTMEkZ3
+
+Don’t wait until you feel 100% prepared ^Wx0mqZEG
+
+Start now !!! ^8LdF35g7
+
+Contribute ^idGYZVGH
+
+Develop your full potential ^ZqAZuCSv
+
+Build different things
+from the same blocks ^DwCeBeXh
+
+attention is our most scarce and precious resource ^WC18Sjvj
+
+TYPES
+- Distilled notes
+- Outtakes
+- Work-in-process
+- Final deliverables
+- Documents by others ^WbGAj0st
+
+BENEFITS
+- interruption-proof
+- able to make progress over longer time
+- increase quality by more frequent sharing
+- build entire projects just by assembly ^KTtKubCT
+
+TYPES
+- Distilled notes
+- Outtakes
+
+---
+Note 5 (ID: 800_Ressources/103_PKM/Visual-Note-Taking.excalidraw)
+Path: 800_Ressources/103_PKM/Visual-Note-Taking.excalidraw.md
+Name: Visual-Note-Taking.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Excalidraw Data
+## Text Elements
+Icons ^xQXyee2E
+
+Easy Shapes ^mWcCp4jn
+
+Conventions/Rules ^yrWzQFMk
+
+Colors and Sizes ^qHuG5lUc
+
+- KISS - Focus on content vs styling (few colors, as few rules as possible) ^HiKWk1Eg
+
+Red (#c92a2a) = Headings (Level 1 XL, Level 2 L, Level 3 M)
+
+Purple (#5f3dc4) = Paragraph headlines (S Only)
+
+Orange (#d9480f) = Highlighted Words within text (S only)
+
+Green (#5c940d) = Highlighted Texts e.g. conclusions (S only)
+
+Grey (#343a40) = Main Text, Structural Elements (Boxes, Arrows, ...)
+ 
+White (#000000) = Symbols, Images, Sketches ^7ln2R1Qv
+
+The Goal is to increase Clarity and underline Meaning of visualized Information: ^wWnvRPmh
+
+Consistent use of Shapes ^roOVVxAs
+
+- Consistent Rules and Rules for everything -> Spent decisions on content, not styling ^E7wXZnlP
+
+Keep it simple ^tAAIoDtm
+
+Achtung/Wichtig ^RTdKlINX
+
+- Inspired by VS Code Dark Mode ^jPfZybvz
+
+Example of Color And Size Conventions ^3FPOt7lG
+
+Headline L2 ^6hQB8YYN
+
+Paragraph Headline ^kJSEUahz
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed dia
+
+---
+Note 6 (ID: 800_Ressources/104_Buddhism/5 Feinde der Meditation)
+Path: 800_Ressources/104_Buddhism/5 Feinde der Meditation.md
+Name: 5 Feinde der Meditation.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+# Text Elements
+5 Feinde der Meditation (Nīvaraṇā) ^yeHOwUX4
+
+Wunsch ^ctUPQxxU
+
+Abweisung ^z6wo7C2a
+
+Müdigkeit ^9Me4pHrw
+
+Unruhe ^SFIHwhck
+
+Zweifel ^vIAX3RL8
+
+Starke Atmung
+Bewegung
+Licht ^Lj2qmAs4
+
+An Technik
+An Lehrer ^wQiTD1Ss
+
+Anapana (Konzentration
+auf Atem)
+Still sitzen - Ruhiger
+Körper -> Ruhiger Geist ^A0pTioQF
+
+
+# Embedded files
+a9552b22f1c3d77b556d9d3b1c40ef06e5acdd12: [[aim.svg]]
+
+%%
+# Drawing
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.23",
+	"elements": [
+		{
+			"id": "nBmNznyP0Q_WJu0I0AA7e",
+			"type": "rectangle",
+			"x": -1218.6864391002018,
+			"y": 1093.8769593210816,
+			"width": 225.70359849583292,
+			"height": 60,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 204671613,
+			"version": 104,
+			"versionNonce": 21787570
+
+---
+Note 7 (ID: 800_Ressources/104_Buddhism/5 Freunde der Meditation)
+Path: 800_Ressources/104_Buddhism/5 Freunde der Meditation.md
+Name: 5 Freunde der Meditation.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+# Text Elements
+5 Freunde der Meditation ^6VDXHzTq
+
+Glaube ^QWhG2u9G
+
+Weisheit
+(Pañña) ^P4HbC3cI
+
+Ohne Weisheit ist
+Glaube blind ^pfFnuQ0Q
+
+Anstrengung (Viriya) ^v8B5g5QG
+
+Konzentration (Samadhi) ^zUMITfjf
+
+Bewusstsein ^xNSWyCUM
+
+Richtige Anstrengung
+-> Folge den Lehren
+Buddhas ^BIsLASli
+
+Bewusstsein von Empfindungen ^SVEUpVZQ
+
+Weisheit: Kommt von 
+Gleichmütigen Erfahrung
+auf Empfindungsebene ^1B7QYuZx
+
+
+# Embedded files
+a5ddfab3db69c9b7cb1227b84e591670f171b7b8: [[010-group.svg]]
+8eb27f012251d390210c8efd7fdf048a096d53a8: [[connection-link-unseperable.svg]]
+
+%%
+# Drawing
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.23",
+	"elements": [
+		{
+			"type": "rectangle",
+			"version": 359,
+			"versionNonce": 138464106,
+			"isDeleted": false,
+			"id": "VcPIFRrGbNxAp0BL8MxQC",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -103.27354312314105,
+			"y": 1097.5377470870856,
+			"strokeColor": "
+
+---
+Note 8 (ID: 800_Ressources/104_Buddhism/Buddhismus - Drei Daseinsmerkmale)
+Path: 800_Ressources/104_Buddhism/Buddhismus - Drei Daseinsmerkmale.md
+Name: Buddhismus - Drei Daseinsmerkmale.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+# Text Elements
+Vergänglichkeit (Anicca) ^nJKA3UH5
+
+Leiden (Dukkha) ^HWZd5auF
+
+Nicht-Selbst (Anatta) ^6zpCko8S
+
+3 Daseinsmerkmale (tilakkhaṇa) ^WkDk6LFk
+
+Alles wandelt sich
+und vergeht ^Oqy3VNHp
+
+Leiden ist unvermeidbar ^7PnowgeH
+
+Vorhandensein eines 
+getrennten Ichs/Egos.
+Alles existiert Abhängig
+von anderem. ^wTckU2sB
+
+
+# Embedded files
+95943616c05f8fe636e2a79b7b7903fc1984447d: [[arrow-cycle-circle.svg]]
+822a1f791c8d4188d7724aec6a2a1411d2430a2d: [[008-sad.svg]]
+2d4832279d047d7156720c12cc00b98a22778ca7: [[042-personal growth.svg]]
+
+%%
+# Drawing
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.23",
+	"elements": [
+		{
+			"type": "rectangle",
+			"version": 865,
+			"versionNonce": 903023805,
+			"isDeleted": false,
+			"id": "QgGU8i2vwUUeRrd_6XxWs",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2576.9352048787437,
+			"y": 526.6050755625805,
+			"strokeColor": "#1e1e1e",
+			"backgroundCol
+
+---
+Note 9 (ID: 800_Ressources/104_Buddhism/Buddhismus 10 Tugenden aka Paramis)
+Path: 800_Ressources/104_Buddhism/Buddhismus 10 Tugenden aka Paramis.md
+Name: Buddhismus 10 Tugenden aka Paramis.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+# Excalidraw Data
+## Text Elements
+Freigebigkeit
+(Dana) ^PHMLvQBa
+
+Ethisches Verhalten
+(Sīla) ^KuUbeUt8
+
+freiwilliger
+Verzicht
+(Nekkhamma) ^IuyQubOo
+
+Weisheit
+(Paññā) ^w6wjLSmc
+
+Willenskraft
+(Viriya) ^MTOzfoNi
+
+Geduld
+(Khanti) ^RKE66zZ8
+
+ Wahrhaftigkeit
+(Sacca) ^aSbq0aSZ
+
+Standhaftigkeit Entschlossenheit
+(Adhiṭṭhāna)  ^xXzflqGu
+
+Mitfühlende, liebevolle Güte
+(Mettā) ^j2wsjB6c
+
+Gleichmut
+(Upekkhā) ^wS5bsvw2
+
+10 Tugenden (Paramis) ^sJLumMwK
+
+Alle 10 Paramis müssen gefüllt werden
+wie Gläser ^NVaqw3XI
+
+## Embedded Files
+a5fe8f0531fcf00eddb8ecb3b41bea441a44e483: [[glass.svg]]
+
+42e532f71f03004aef5d1709fc4bc9bf9f2f9834: [[097-water drop.svg]]
+
+9e9ad80f91c6952a3a5a0b965dd02470214b1e1c: [[006-peace.svg]]
+
+0ac3f58cc642af3c0ed96373fea3a35a6351a033: [[080-love.svg]]
+
+4435f7074992e688f97f9be4c1bbb24bd7fc6a1a: [[141-tree.svg]]
+
+c506580c6f4560722fd7dfcf0a0f66272f176a8f: [[021-morality.svg]]
+
+e66b7a4d551ff60d0b6db49edd931a129a928a8a: [[026-minimize.svg]]
+
+aeec2b4e73b4d6d9e6c3470467e374a199c73374: [[wisdom-enlight
+
+---
+Note 10 (ID: 800_Ressources/104_Buddhism/MOC - Meditation.excalidraw)
+Path: 800_Ressources/104_Buddhism/MOC - Meditation.excalidraw.md
+Name: MOC - Meditation.excalidraw.md
+
+Content:
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+# Summary
+
+
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFADZFAHYyJE9VGEYwGgQAbQBdcnQoKABlALA+UFkYOIQQXHR8AGtoyXw8bOwNPkZOTExyHRgiACF0VErarkZcAGF6THp8UoBiADN5hZAAXyWgA
+```
+%%
